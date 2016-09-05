@@ -8,7 +8,7 @@ layout: post
 
 This post may not make sense if you haven’t read the beginnings of the Ruben + Emily story. If you missed the first parts of our story, you can find them [here](http://emily.rubennic.com/recipes/ruben-emily-1), [here](http://emily.rubennic.com/recipes/ruben-emily-2), and [here](http://emily.rubennic.com/recipes/ruben-emily-3).
 
-…………………………………………………………………………………………………………….........................................
+- - -
 
 
 
