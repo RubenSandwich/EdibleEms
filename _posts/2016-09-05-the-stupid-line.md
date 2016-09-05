@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 *Part 4 of The Story of Emily and Ruben*
 
