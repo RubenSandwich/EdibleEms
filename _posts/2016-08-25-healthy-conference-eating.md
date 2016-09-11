@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-08-25T00:00:00.000Z
+date: {}
 tags: healthytravel nutritiononthego travel work career
 image: img_3416.jpg
 draft: true
