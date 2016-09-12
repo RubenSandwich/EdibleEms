@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-07-11T00:00:00.000Z
+date: {}
 tags: fitness life health workout splitschallenge
 image: img_3181.JPG
 ---
