@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+date: 2016-09-05T00:00:00.000Z
 ---
 *Part 4 of The Story of Emily and Ruben*
 
@@ -29,21 +30,21 @@ The limited contact after such a long [first date](http://emily.rubennic.com/rec
 
 The first weekend back we spent almost entirely together. He came over to my neighborhood, got a tour of my beautiful college campus, and we rode bikes around together. The next day he borrowed a car just to pick me up and take me to his church! He introduced me to all of his closest friends right away, and I felt so overwhelmed!
 
-Of course after a week or so of this, it got a little awkward introducing each other as: “This is Emily/Ruben, my….(pause)....friend.” 
+Of course after a week or so of this, it got a little awkward introducing each other as: “This is Emily/Ruben, my….(pause)....friend.”
 
 So, one sunny Saturday afternoon, Ruben and I biked to Cathedral Park, an iconic Portland landmark, and spent the afternoon chatting and playing frisbee. We were resting on a blanket in the grass and I had just finished telling him about a chart about intelligence that my physics teacher showed us.
 
-Intelligence, my professor said, exhibits a peak sort of pattern. A large amount of the population is considered averagely intelligent, while the remaining small amount is either lower or higher intelligent. The line between average intelligence and lower intelligence was very distinct. 
+Intelligence, my professor said, exhibits a peak sort of pattern. A large amount of the population is considered averagely intelligent, while the remaining small amount is either lower or higher intelligent. The line between average intelligence and lower intelligence was very distinct.
 
 He jokingly called this the stupid line.
 
 I took this realization as extremely interesting and recited it to Ruben with great enthusiasm.
-As the evening approached and our conversation started to dwindle, Ruben brought this story up again. He started telling me how much he enjoyed and appreciated our friendship, but that he did not want to cross “the stupid line.” 
+As the evening approached and our conversation started to dwindle, Ruben brought this story up again. He started telling me how much he enjoyed and appreciated our friendship, but that he did not want to cross “the stupid line.”
 
 I asked him to clarify.
 
 “Emily,” he said, “I think that I would be acting extraordinarily stupid if I kept our friendship the way it is. If I did not tell you that i wanted something more, I would be crossing the stupid line. And I don’t want to do that, Emily. So I guess I am asking you to be my girlfriend.”
 
-After all of this and seeing this coming for so long, yet remaining so unsure in it all, I was shocked and surprised. I of course blubbered “yes” awkwardly and he smiled, squeezed my hands, and then started to pack up our picnic supplies. 
+After all of this and seeing this coming for so long, yet remaining so unsure in it all, I was shocked and surprised. I of course blubbered “yes” awkwardly and he smiled, squeezed my hands, and then started to pack up our picnic supplies.
 
 We rode home together as the sun was setting and said goodbye after cooking dinner together. It was awkward but perfect, and from then on we have been, and always will be, together.

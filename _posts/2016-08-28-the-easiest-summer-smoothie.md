@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: 2016-08-28T00:00:00.000Z
 tags: treat dessert smoothie summer
@@ -19,7 +19,7 @@ image: img_3729.jpg
 
 	Ingredients:
 
-* 1 banana, frozen 
+* 1 banana, frozen
 
 * 1 cup frozen mango
 

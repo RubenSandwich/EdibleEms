@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: 2016-07-23T00:00:00.000Z
 tags: ruben&emily relationships love dating life
@@ -45,11 +45,11 @@ All throughout the meeting we were eyeing each other (like middle schoolers, I k
 
 <br>
 
-Now this is one of the things I love about my husband: his resourcefulness, creativity, and magical ability to make the day flow in the moment with little or no planning. 
+Now this is one of the things I love about my husband: his resourcefulness, creativity, and magical ability to make the day flow in the moment with little or no planning.
 
 <br>
 
-Here was the surprise: Shepherd had been spending all of his free time throughout the summer building a sailboat! No, not from scratch, but pretty nearly. He had found an abandoned and utterly broken sailboat in the forest and used any tools and materials he could find to restore it back to life. 
+Here was the surprise: Shepherd had been spending all of his free time throughout the summer building a sailboat! No, not from scratch, but pretty nearly. He had found an abandoned and utterly broken sailboat in the forest and used any tools and materials he could find to restore it back to life.
 
 <br>
 
@@ -57,7 +57,7 @@ Here was the surprise: Shepherd had been spending all of his free time throughou
 
 <br>
 
-What was even better than being asked to a large social event was being asked to spend an entire afternoon with this man I had been craving to see all summer. 
+What was even better than being asked to a large social event was being asked to spend an entire afternoon with this man I had been craving to see all summer.
 
 <br>
 
@@ -74,5 +74,3 @@ This was of course after we launched the boat only to find that we had forgotten
 <br>
 
 It was wonderful, a bit scary, and… not enough time! At the end of the night and the next day while getting ready to leave camp, I made sure Shepherd promised to keep in contact with me after camp and hoped that we would meet again after moving back to Portland.
-
-
