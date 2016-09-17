@@ -2,9 +2,7 @@
 published: false
 layout: post
 date: 2016-07-08T00:00:00.000Z
-tags: >-
-  csa community supported aggriculture localfood inspiration self-improvement
-  learning garden organicgardening goals newyearchallenges
+tags: ruben&emily relationships love dating life
 ---
 
 
@@ -44,4 +42,3 @@ After two and a half months of constant letter writing back and forth, though, I
 <br>
 
 **P.S. If you missed Part 1 of the story, you can find that [here](http://emily.rubennic.com/recipes/ruben-emily-1).**
-
