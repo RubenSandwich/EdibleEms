@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-06-16T00:00:00.000Z
+date: {}
 tags: kombucha spicy jalapeno drink summer probiodics
 image: spicy booch 3.jpg
 ---
