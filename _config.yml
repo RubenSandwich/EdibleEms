@@ -27,4 +27,3 @@ permalink: /:title
 
 # Build settings
 markdown: kramdown
-theme: minima
