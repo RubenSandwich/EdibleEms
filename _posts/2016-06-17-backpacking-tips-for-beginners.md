@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-06-17T00:00:00.000Z
+date: {}
 tags: outdoors travel nocook backpacking camping portablefood
 image: img_2784.JPG
 ---
