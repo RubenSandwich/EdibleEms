@@ -1,13 +1,13 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-06-17T00:00:00.000Z
 tags: outdoors travel nocook backpacking camping portablefood
 image: img_2784.JPG
 ---
-This is a new subject that I am getting increasingly excited about, and I know that lots of people have been curious and asking questions about my backpacking trips, and in particular the food I bring (for obvious reasons). 
+This is a new subject that I am getting increasingly excited about, and I know that lots of people have been curious and asking questions about my backpacking trips, and in particular the food I bring (for obvious reasons).
 
-I stripped down my knowledge to just the basic, fundamental items and planning that needs to go into a backpacking trip. It’s really not as hard as you would think, and is so much more rewarding and enjoyable than car camping. 
+I stripped down my knowledge to just the basic, fundamental items and planning that needs to go into a backpacking trip. It’s really not as hard as you would think, and is so much more rewarding and enjoyable than car camping.
 
 
 
@@ -33,7 +33,7 @@ Additionally, make sure your location has plenty of water sources! This is somet
 
 **Distance**
 
-My advice for distance to backpack is definitely not going to be a one size fits all number. I am honestly still figuring out this myself, but a general rule is this: only go about ½-¾ of the distance you would normally go on a day hike. So, I seem to enjoy hikes around 10 miles for the day (not too challenging but still getting my gas money’s worth), so for backpacking, I can only go 5-7 miles in one day maximum. Maybe as I get more experienced (and learn to pack a little better), I will improve, but to start out I would definitely not go more than 7 miles in one day. 
+My advice for distance to backpack is definitely not going to be a one size fits all number. I am honestly still figuring out this myself, but a general rule is this: only go about ½-¾ of the distance you would normally go on a day hike. So, I seem to enjoy hikes around 10 miles for the day (not too challenging but still getting my gas money’s worth), so for backpacking, I can only go 5-7 miles in one day maximum. Maybe as I get more experienced (and learn to pack a little better), I will improve, but to start out I would definitely not go more than 7 miles in one day.
 
 If I do a 7 mile on the first day, then usually the second day is lighter, more around 3 miles. You’d be surprised how tired you get by hiking, carrying a lot of weight, and then sleeping on the ground!
 
@@ -88,7 +88,7 @@ Carry around cooking pots and pans while backpacking sounds crazy, but there are
 
 3.) Portable stove
 
-A [portable stove](https://www.amazon.com/gp/product/B004U8CP88?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=B004U8CP88) like this one is IMPERATIVE when backpacking. Trust me, after 1 day of eating raw food you will want some comfort food. Don't forget that at elevation it gets pretty cold at night, too, and it is super nice to be able to have warm food and/or hot chocolate! 
+A [portable stove](https://www.amazon.com/gp/product/B004U8CP88?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=B004U8CP88) like this one is IMPERATIVE when backpacking. Trust me, after 1 day of eating raw food you will want some comfort food. Don't forget that at elevation it gets pretty cold at night, too, and it is super nice to be able to have warm food and/or hot chocolate!
 
 <br>
 
@@ -100,14 +100,14 @@ We order [this brand](https://www.amazon.com/gp/product/B001GCVJ4M?ie=UTF8&tag=e
 
 5.) Lighter
 
-This is actually not mandatory, but it helps start fires a lot quicker and helps in case of fire failures. :) I have no specific brand, just any small lighter will do. 
+This is actually not mandatory, but it helps start fires a lot quicker and helps in case of fire failures. :) I have no specific brand, just any small lighter will do.
 
 <br>
 
 6.) Small tent or tarp
 
 
-“Real backpackers” (in my mind, those who do the PCT or go for 1 week + at a time) only use a tarp, but I am not that hard core. I like to feel like I am sleeping "inside" so to speak. 
+“Real backpackers” (in my mind, those who do the PCT or go for 1 week + at a time) only use a tarp, but I am not that hard core. I like to feel like I am sleeping "inside" so to speak.
 
 
 
@@ -132,13 +132,13 @@ This may not work for those of you at extreme elevations during the spring or la
 
 
 *This picture gives you a bit of an idea of the size it folds down into.*
- 
+
 
 <br>
 
 8.) Backpack - doesn’t have to be fancy! Mine definitely isn't, although Ruben's is a step up and I will show you both. To begin with, I would say it doesn't matter much, but as you get more and more serious you would probably need to buy a special backpack. I haven't gotten to that level yet, but I will let you know when I do. :)
 
-I got [my backpack](https://www.amazon.com/gp/product/B00HU0DKEG?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=B00HU0DKEG) a few years ago and it is super lightweight and flexible. It doesn't have a hard back on it so I can fill it up more, and add any shapes that I want to. I highly suggest it, although it is not great for carrying papers because it is so flimsy! Definitely more of a sports bag. 
+I got [my backpack](https://www.amazon.com/gp/product/B00HU0DKEG?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=B00HU0DKEG) a few years ago and it is super lightweight and flexible. It doesn't have a hard back on it so I can fill it up more, and add any shapes that I want to. I highly suggest it, although it is not great for carrying papers because it is so flimsy! Definitely more of a sports bag.
 
 
 
@@ -147,7 +147,7 @@ I got [my backpack](https://www.amazon.com/gp/product/B00HU0DKEG?ie=UTF8&tag=edi
 <br>
 
 
-Ruben’s is from a small store in Portland, but we found a similar backpack [here](https://www.amazon.com/gp/product/B00SYFN0QE?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=B00SYFN0QE), which he will likely order once his breaks. 
+Ruben’s is from a small store in Portland, but we found a similar backpack [here](https://www.amazon.com/gp/product/B00SYFN0QE?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=B00SYFN0QE), which he will likely order once his breaks.
 
 
 
@@ -169,7 +169,7 @@ And our [dog's backpack:](https://www.amazon.com/gp/product/B00MQGL712?ie=UTF8&t
 
 I get so tired of eating nuts while backpacking. Although some of my suggestions will include nuts and trail mixes, there are a lot of other foods you can take just as easily.
 
-1.) Hot chocolate mix! 
+1.) Hot chocolate mix!
 
 You cannot go camping without hot chocolate! It’s not hard to make your own mix and it well worth the extra centimeter of space to pack it. Last time I even brought a small [can of coconut milk], which I felt was also worth the space and weight. But, to each his own!
 

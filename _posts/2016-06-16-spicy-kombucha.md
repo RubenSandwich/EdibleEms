@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-06-16T00:00:00.000Z
 tags: kombucha spicy jalapeno drink summer probiodics
 image: spicy booch 3.jpg
 ---
@@ -28,9 +28,9 @@ Like any other flavor of kombucha, this recipe is so simple it’s almost ridicu
 
 	Directions:
 
-1. Brew your kombucha as per directions [here](http://emily.rubennic.com/recipes/citrus-kombucha). 
+1. Brew your kombucha as per directions [here](http://emily.rubennic.com/recipes/citrus-kombucha).
 
-2. Once the kombucha has finished brewing and is ready to drink, now it is time to make it extra special. Chop the jalapeno into thin rings, then add to your growler or jar along with the sparkling water. 
+2. Once the kombucha has finished brewing and is ready to drink, now it is time to make it extra special. Chop the jalapeno into thin rings, then add to your growler or jar along with the sparkling water.
 
 3. Seal the lid, and led the kombucha “marinate,” so to speak, for a minimum of an hour or overnight (or throughout the day if you want something for right when you come home from work - something I highly suggest!).
 

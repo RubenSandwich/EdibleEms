@@ -22,7 +22,7 @@ Serves 2-3
 <br>
 
 	Ingredients:
- 
+
 * 4 medium russet potatoes
 
 * 4 T olive oil
@@ -35,7 +35,7 @@ Serves 2-3
 
 * 1/2 lb ground turkey
 
-* 1 beefsteak tomato 
+* 1 beefsteak tomato
 
 * 1 Jalapeño
 
@@ -47,13 +47,13 @@ Serves 2-3
 
 	Directions:
 
-1. Caramelize the onions: this is optional but highly recommended. If you do not have time to caramelize, simply slice [into ring-shape] and saute in butter or olive oil for 10 minutes or so. If you are caramelizing, put the chopped onions into a crockpot with salt, 1 tsp of sugar, 1 T olive oil, and the butter on low for about 4 hours minimum, or overnight. 
+1. Caramelize the onions: this is optional but highly recommended. If you do not have time to caramelize, simply slice [into ring-shape] and saute in butter or olive oil for 10 minutes or so. If you are caramelizing, put the chopped onions into a crockpot with salt, 1 tsp of sugar, 1 T olive oil, and the butter on low for about 4 hours minimum, or overnight.
 
-2. When the onions are done cooking, fry them in another tablespoon of olive oil over medium heat to get them brown and crispy. 
+2. When the onions are done cooking, fry them in another tablespoon of olive oil over medium heat to get them brown and crispy.
 
 3. Preheat the oven to 400 degrees.
 
-4. Peel (optionally) and thinly slice (not optional) the potatoes. Place them on a pre-greased baking sheet, drizzle olive oil on top, and roast in the oven for 20-25 minutes, or until soft. This will vary depending on how thinly you slice them to be sure to watch carefully the first couple of times you make this! 
+4. Peel (optionally) and thinly slice (not optional) the potatoes. Place them on a pre-greased baking sheet, drizzle olive oil on top, and roast in the oven for 20-25 minutes, or until soft. This will vary depending on how thinly you slice them to be sure to watch carefully the first couple of times you make this!
 
 5. While the potatoes are baking, cook the bacon, then the ground turkey in the bacon fat. Finish the caramelized onions, chop the jalapeno, tomato, and green onions. Place all of this on top of the potatoes when they are cooked.
 
@@ -84,26 +84,26 @@ Serves 2-3
 
 * 1/2 lb ground turkey
 
-* 1 beefsteak tomato 
+* 1 beefsteak tomato
 
 * 1 Jalapeño
 
 * Cilantro, for garnish
 
-* Guacamole for serving 
+* Guacamole for serving
 
 <br>
 
 	Directions:
 
-1. Peel and thinly slice the potatoes. You must peel sweet potatoes as their skin is not great for the human digestive system. 
-Caramelize the onions: this is optional but highly recommended. If you do not have time to caramelize, simply slice [into ring-shape] and saute in butter or olive oil for 10 minutes or so. If you are caramelizing, put the chopped onions into a crockpot with salt, 1 tsp of sugar, 1 T olive oil, and the butter on low for about 4 hours minimum, or overnight. 
+1. Peel and thinly slice the potatoes. You must peel sweet potatoes as their skin is not great for the human digestive system.
+Caramelize the onions: this is optional but highly recommended. If you do not have time to caramelize, simply slice [into ring-shape] and saute in butter or olive oil for 10 minutes or so. If you are caramelizing, put the chopped onions into a crockpot with salt, 1 tsp of sugar, 1 T olive oil, and the butter on low for about 4 hours minimum, or overnight.
 
-2. When the onions are done cooking, fry them in another tablespoon of olive oil over medium heat to get them brown and crispy. 
+2. When the onions are done cooking, fry them in another tablespoon of olive oil over medium heat to get them brown and crispy.
 
 3. Preheat the oven to 400 degrees.
 
-4. Peel (optionally) and thinly slice (not optional) the potatoes. Place them on a pre-greased baking sheet, drizzle olive oil on top, and roast in the oven for 20-25 minutes, or until soft. This will vary depending on how thinly you slice them to be sure to watch carefully the first couple of times you make this! 
+4. Peel (optionally) and thinly slice (not optional) the potatoes. Place them on a pre-greased baking sheet, drizzle olive oil on top, and roast in the oven for 20-25 minutes, or until soft. This will vary depending on how thinly you slice them to be sure to watch carefully the first couple of times you make this!
 
 5. While the potatoes are baking, cook the bacon, then the ground turkey in the bacon fat. Finish the caramelized onions, chop the jalapeno, tomato, and green onions. Place all of this on top of the potatoes when they are cooked.
 

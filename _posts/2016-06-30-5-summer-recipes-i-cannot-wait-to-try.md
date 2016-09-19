@@ -1,15 +1,15 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-06-30T00:00:00.000Z
 tags: summer quickrecipes seasonal inspiration
 image: balance.jpg
 ---
-Now that it's summer, I don't want to cook. BUUUUT, I do want to try these recipes, none of which require heating an oven or a stove, and all of which sound mouthwateringly good. Bring it on, summer heat! 
+Now that it's summer, I don't want to cook. BUUUUT, I do want to try these recipes, none of which require heating an oven or a stove, and all of which sound mouthwateringly good. Bring it on, summer heat!
 
 <br>
 
-	1. Avocado Gazpacho 
+	1. Avocado Gazpacho
 
 I love all things avocado, especially being dairy free. I have tried most of the strange sounding avocado recipes like mousse, smoothies, and even cakes using avocados, but this summer a savory soup sounds in order! [This recipe](http://selfproclaimedfoodie.com/cucumber-avocado-basil-mint-gazpacho/) using basil and mint sounds too good! I will report back and let you know how it is. :)
 
@@ -17,7 +17,7 @@ I love all things avocado, especially being dairy free. I have tried most of the
 
 	2. Spiralized Thai Salad from Against All Grain
 
-Ever since I saw [her video](https://www.youtube.com/watch?v=bXNo2M4oL10), I have been antsy to try this recipe, especially now that I finally have a [spiralizer](https://www.amazon.com/gp/product/B01BE77QL8?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=B01BE77QL8) (my wonderful husband knew I had been wanting it and got it for me for Christmas). 
+Ever since I saw [her video](https://www.youtube.com/watch?v=bXNo2M4oL10), I have been antsy to try this recipe, especially now that I finally have a [spiralizer](https://www.amazon.com/gp/product/B01BE77QL8?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=B01BE77QL8) (my wonderful husband knew I had been wanting it and got it for me for Christmas).
 
 
 
@@ -27,9 +27,9 @@ Ever since I saw [her video](https://www.youtube.com/watch?v=bXNo2M4oL10), I hav
 
 <br>
 
-	3. Pistachio ice cream 
+	3. Pistachio ice cream
 
-Is it just me, or are pistachio desserts kind of a wanna-be hipster food? I mean, ESPECIALLY pistachio macarons. Doesn't get any more hipster than that. 
+Is it just me, or are pistachio desserts kind of a wanna-be hipster food? I mean, ESPECIALLY pistachio macarons. Doesn't get any more hipster than that.
 
 Hipsters have great taste in food, though, and honestly, they all make me want to try this recipe from [Dairy Free Ice Cream](https://www.amazon.com/gp/product/162860039X?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=162860039X). This book is GENIUS (don't even get me started about the dairy free chocolate ganache!) and I absolutely cannot wait to start making ice cream again now that it is hot out. First up: pistachio!
 
@@ -39,7 +39,7 @@ Hipsters have great taste in food, though, and honestly, they all make me want t
 
 *I may also have a very special creamy green recipe coming up for you guys soon!*
 
-<br> 
+<br>
 
 	4. Grilled peaches
 

@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-06-14T00:00:00.000Z
 tags: ruben&emily relationships love dating life
 image: mustache.JPG
 ---
@@ -17,7 +17,7 @@ After celebrating my second year anniversary, I have been doing lots of reflecti
 
 <br>
 
-I always thought I would find my husband at college. All three of my older siblings found their significant others at college, so that’s where you meet people right? 
+I always thought I would find my husband at college. All three of my older siblings found their significant others at college, so that’s where you meet people right?
 
 That meant I had four years to find someone or I wouldn’t get married.
 
