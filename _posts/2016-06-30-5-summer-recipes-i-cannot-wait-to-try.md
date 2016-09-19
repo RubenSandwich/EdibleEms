@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-06-30T00:00:00.000Z
+date: {}
 tags: summer quickrecipes seasonal inspiration
 image: balance.jpg
 ---
@@ -72,4 +72,3 @@ My curiosity just might make me splurge and eat some dairy sometime soon. This i
 
 
 **How about you, what are your favorite summer foods/recipes?**
-
