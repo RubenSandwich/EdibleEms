@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-05-21T00:00:00.000Z
+date: {}
 tags: bookreview books nutrition learning paleo
 image: ety.jpg
 draft: true
