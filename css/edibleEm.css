@@ -1,0 +1,21 @@
+
+header {
+  height: 79px;
+  background-color: #7878A4;
+  border-bottom: 6px solid #A6A6C3;
+}
+
+body {
+  background-color: #F7F7F7;
+  font-size: 2em;
+}
+
+.logo {
+  width: 125;
+  margin-left: 9px;
+  margin-top: 6px;
+}
+
+.container {
+  margin-top: 20px;
+}

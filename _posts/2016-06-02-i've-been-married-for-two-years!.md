@@ -4,7 +4,6 @@ layout: post
 date: 2016-06-02T00:00:00.000Z
 tags: ruben&emily relationships love dating life
 image: wedding_top_picks 7.jpg
-draft: false
 ---
 Last Tuesday we celebrated two years of being married.
 
@@ -16,19 +15,19 @@ Since I love to cook, I am sure nobody would be surprised to hear that I wanted 
 
 <br>
 
-I do not, however, enjoy baking, but I do very much enjoy a good dessert on occasion. We decided to go to this a-little-bit-too-stuffy-but-excellent-food-and-even-better-view restaurant just for dessert. I would never go there again but I sure wish they would tear the restaurant down and make it into an overlook park… Seriously. Or at least a casual-nice restaurant, coffee shop, or just anything with a deck! (I still cannot believe they didn’t have an overlook deck at all! Indoor photos just do not turn out the same.) Anyway, the people there were so cool that as we were sitting down at 7:30pm to have dessert, most others were there just starting their dinners! 
+I do not, however, enjoy baking, but I do very much enjoy a good dessert on occasion. We decided to go to this a-little-bit-too-stuffy-but-excellent-food-and-even-better-view restaurant just for dessert. I would never go there again but I sure wish they would tear the restaurant down and make it into an overlook park… Seriously. Or at least a casual-nice restaurant, coffee shop, or just anything with a deck! (I still cannot believe they didn’t have an overlook deck at all! Indoor photos just do not turn out the same.) Anyway, the people there were so cool that as we were sitting down at 7:30pm to have dessert, most others were there just starting their dinners!
 
 We had a wonderful dessert and enjoyed just taking time on a weekday to relax, chat, and visit a new part of town.
 
 ![IMG_2671.JPG](/content/IMG_2671-JPG.jpg)
 
-*Can you believe this view?* 
+*Can you believe this view?*
 
 <br>
 
 **A Realization**
 
-My [realizations from last year](http://emily.rubennic.com/recipes/marriage-and-wedding-cakes) have not been altered, but over the past year and from reflecting on our relationship journey overall has just added to that. I could write a good sized ebook with all of my thoughts and experiences, but considering this is just a blog post I will stick to the main thought that we have been noticing in our relationship as we reflect on year two. 
+My [realizations from last year](http://emily.rubennic.com/recipes/marriage-and-wedding-cakes) have not been altered, but over the past year and from reflecting on our relationship journey overall has just added to that. I could write a good sized ebook with all of my thoughts and experiences, but considering this is just a blog post I will stick to the main thought that we have been noticing in our relationship as we reflect on year two.
 
 
 This is it: Strife occurs when we do NOT spend time together. Nothing bad needs to happen, nobody needs to say anything mean, all that needs to happen is that we go for a time without spending quality time together and things seem to start to go downhill. Feelings are more easily hurt, bitterness creeps in with no reason behind it, and loneliness hits.
@@ -47,7 +46,7 @@ The month leading up to our anniversary happened to be an extremely busy one for
 
 I admit that it is me who is the more time-needy between the two of us. During this season in our relationship, I started feeling unwanted and lonely, even though Ruben and I were together every evening and weekend. I had spent the 3 years prior to being married living on my own and felt fine, but once you get used to being in that close of a relationship, it feels extra depressing to not have that “close-ness.” Especially when the person you love is in the same room yet it seems difficult to spend time together.
 
-As our anniversary approached, we began reminiscing, realizing that wow, we have almost been married for 2 whole years (and have been together for 6). Considering this history and our deep commitment to each other, we realized that our marriage was not in the place we wanted it to be in. 
+As our anniversary approached, we began reminiscing, realizing that wow, we have almost been married for 2 whole years (and have been together for 6). Considering this history and our deep commitment to each other, we realized that our marriage was not in the place we wanted it to be in.
 
 Not that things were horrible, but they were getting to a place where we were prone to hurting each other, and any romance was just mediocre overall. I thought this would be such a difficult process and that we had only begun after this conversation, but soon after spending *intentional, one-on-one time together regularly* for several weeks, things slowly started to become back to where they had once been.
 
@@ -71,7 +70,7 @@ Remember that it takes a certain amount of time before deep conversation & conne
 
 **Marriage is Hard Work**
 
-This is not popular to say, but marriage takes a lot of intentionality and is genuinely difficult a lot of the time. As all relationships, though, the time and effort put into it is always worth it. 
+This is not popular to say, but marriage takes a lot of intentionality and is genuinely difficult a lot of the time. As all relationships, though, the time and effort put into it is always worth it.
 
 <br>
 

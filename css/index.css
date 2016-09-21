@@ -2,5 +2,31 @@
 .grid-cell {
   width: 300px;
   margin: 5px;
-  background-color: lightgrey;
+}
+
+.cell-image {
+  width: 300px;
+}
+
+.post-link {
+  text-decoration: none;
+}
+
+.cell-title {
+  margin-top: 2px;
+  background-color: #A6A6C3;
+  padding: 8px;
+}
+
+.cell-title h1 {
+  color: #F7F7F7;
+  font-size: 28px;
+  line-height: 1.1;
+  margin-bottom: 5px;
+}
+
+.cell-title span {
+  color: #7D7D7D;
+  text-decoration: none;
+  font-size: 20px;
 }

@@ -2,4 +2,15 @@
 layout: default
 ---
 
-{{ content }}
+<div class="container">
+
+  <h1>
+    {{ page.title | escape }}
+  </h1>
+
+  <h3>
+    {{ page.date | date: "%b %-d, %Y" }}
+  </h3>
+
+  {{ content }}
+</div>
