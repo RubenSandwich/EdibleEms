@@ -1,7 +1,11 @@
 
+.grid {
+  margin: 0 auto;
+}
+
 .grid-cell {
   width: 300px;
-  margin: 5px;
+  margin: 5;
 }
 
 .cell-image {
