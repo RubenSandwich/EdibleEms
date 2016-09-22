@@ -4,24 +4,32 @@ layout: home
 
 <div class="container">
   <div class="grid">
-    {% for post in site.posts %}
-      {% if post.draft != true %}
-        <div class="grid-cell">
+    {% for post in paginator.posts %}
+      <div class="grid-cell">
 
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            <div>
-              <img class="cell-image" src="content/{{ post.image }}" alt="Test">
-            </div>
-            <div class="cell-title">
-              <h1>
-                {{ post.title | escape }}
-              </h1>
-              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-            </div>
-          </a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          <div>
+            <img class="cell-image" src="/content/{{ post.image }}" alt="Test">
+          </div>
+          <div class="cell-title">
+            <h1>
+              {{ post.title | escape }}
+            </h1>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </div>
+        </a>
 
-        </div>
-      {% endif %}
+      </div>
     {% endfor %}
+  </div>
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Newer</a>
+    {% endif %}
+    <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Older</a>
+    {% endif %}
   </div>
 </div>
