@@ -4,7 +4,7 @@ layout: post
 date: 2016-08-25T00:00:00.000Z
 tags: healthytravel nutritiononthego travel work career
 image: img_3416.jpg
-draft: true
+hidden: true
 ---
 Fall is coming and lots of companies, clubs, and organizations are holding conferences on the weekends. I recently attended a conference for [ASCE](https://thekellydoyle.wordpress.com/2016/08/10/2016-ymls-recap/) and realized that it is a unique eating situation that I have yet to write about.
 
