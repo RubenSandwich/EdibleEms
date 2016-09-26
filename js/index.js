@@ -6,5 +6,11 @@ var msnry = new Masonry('.grid', {
 });
 
 imagesLoaded('.grid', function () {
-  msnry.reloadItems();
+  console.log('hit');
+  msnry.layout();
+  // msnry = new Masonry('.grid', {
+  //   // options
+  //   itemSelector: '.grid-cell',
+  //   isFitWidth: true,
+  // });
 });
