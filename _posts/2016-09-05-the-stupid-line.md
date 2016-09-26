@@ -3,6 +3,7 @@ published: true
 layout: post
 date: 2016-09-05T00:00:00.000Z
 image: letters from shepherd.jpg
+tags: ruben&emily relationships love dating life
 ---
 *Part 4 of The Story of Emily and Ruben*
 
