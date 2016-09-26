@@ -4,7 +4,6 @@ layout: post
 date: 2016-09-12T00:00:00.000Z
 tags: ruben&emily relationships love dating life
 image: wedding_secondary_picks 138.jpg
-hidden: true
 ---
 *Part 5 of The Story of Emily and Ruben*
 
