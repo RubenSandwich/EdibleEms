@@ -6,7 +6,6 @@ var msnry = new Masonry('.grid', {
 });
 
 imagesLoaded('.grid', function () {
-  console.log('hit');
   msnry.layout();
   // msnry = new Masonry('.grid', {
   //   // options
