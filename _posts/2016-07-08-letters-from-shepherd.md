@@ -3,6 +3,7 @@ published: true
 layout: post
 date: 2016-07-08T00:00:00.000Z
 tags: ruben&emily relationships love dating life
+image: letters from shepherd.jpg
 ---
 
 
