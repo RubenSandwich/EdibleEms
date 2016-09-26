@@ -15,7 +15,7 @@ This post may not make sense if you haven’t read the beginnings of the Ruben +
 
 
 
-![IMG_1842.jpg]({{site.baseurl}}/images/IMG_1842.jpg)
+![IMG_1842.jpg](content/IMG_1842.jpg)
 
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
