@@ -6,6 +6,15 @@ header {
   z-index: 2;
   background-color: #7878A4;
   border-bottom: 6px solid #A6A6C3;
+
+  margin-top: 0;
+  transition-property: all;
+	transition-duration: .5s;
+	transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+}
+
+header.hide {
+  margin-top: -70px;
 }
 
 body {
@@ -15,10 +24,21 @@ body {
 
 .logo {
   width: 125;
-  margin-left: 9px;
-  margin-top: 6px;
+  height: 80px;
+  fill: #F7F7F7;
+}
+
+.logo:hover {
+  fill: #A6A6C3;
 }
 
 .container {
   padding-top: 100px;
+  transition-property: all;
+  transition-duration: .5s;
+  transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+}
+
+.container.hide {
+  padding-top: 30px;
 }
