@@ -1,4 +1,10 @@
 
+@media (min-width: 550px) {
+  .container {
+    width: 100%;
+  }
+}
+
 .grid {
   margin: 0 auto;
 }
