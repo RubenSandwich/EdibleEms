@@ -17,7 +17,7 @@ I have developed way more recipes than I ever thought I would! After my initial 
 
 **Ok third announcement:** to accompany my ever-growing site and expanding knowledge, this website will from here out be called [Edible Em’s](edibleem.com). I went ahead and hired [a wonderful graphic designer](http://illustratornate.com) to make a new logo and had my wonderful [husband](http://rubennic.com) redesign the site to be more user friendly and searchable. I think it looks great!
 
-![pic with logo.jpg]({{site.baseurl}}/_posts/pic with logo.jpg)
+![pic with logo.jpg](/content/pic with logo.jpg)
 
 
 You can find my new website from the link below:
