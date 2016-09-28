@@ -1,5 +1,9 @@
 ---
 published: false
+layout: post
+date: 2016-09-27T00:00:00.000Z
+tags: coaching career lifestyle life
+image: logo.jpg
 ---
 Or should I say, THREE big announcements!
 
