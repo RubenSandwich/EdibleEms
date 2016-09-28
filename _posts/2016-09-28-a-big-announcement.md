@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-09-28T00:00:00.000Z
 tags: coaching career lifestyle life
 image: logo.jpg
 ---
