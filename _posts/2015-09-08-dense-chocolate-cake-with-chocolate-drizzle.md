@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-09-08T00:00:00.000Z
 tags: treat dessert chocolate cake paleo dairyfree glutenfree
 image: img_1293.JPG
 ---
@@ -53,7 +53,7 @@ This weeks marks **one full year** of creating and sharing recipes on this site!
 
 * Pinch salt
 
-*Note: If you don’t have coconut flour, it can be omitted. The cake will just be denser and more brownie-like.* 
+*Note: If you don’t have coconut flour, it can be omitted. The cake will just be denser and more brownie-like.*
 
 <br>
 
@@ -61,15 +61,15 @@ This weeks marks **one full year** of creating and sharing recipes on this site!
 
 1. Preheat the oven to 375 degrees farenheight.
 
-2. Melt chocolate & butter/coconut oil in medium saucepan over low heat. 
+2. Melt chocolate & butter/coconut oil in medium saucepan over low heat.
 
-3. Meanwhile, combine dry ingredients. Sift coconut flour and baking soda in a sifter so that they will mix easier and not form clumps. 
+3. Meanwhile, combine dry ingredients. Sift coconut flour and baking soda in a sifter so that they will mix easier and not form clumps.
 
 4. Once fully melted, take chocolate and coconut oil/butter off the heat. Add the rest of the wet and the dry ingredients.
 
 5. Bake for 20-25 minutes, or until a toothpick inserted into the center of the cake comes out clean.
 
-6. Let cool in pan for about 15 minutes before cutting and serving. 
+6. Let cool in pan for about 15 minutes before cutting and serving.
 
 **While the cake is cooling, make the frosting!**
 
