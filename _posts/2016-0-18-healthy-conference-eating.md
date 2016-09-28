@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-08-18T00:00:00.000Z
+date: {}
 tags: healthytravel travel work portablefood onthego
 image: img_3416.jpg
 ---
