@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2016-09-28T00:00:00.000Z
+date: {}
 tags: coaching career lifestyle life
 image: logo.jpg
 ---
@@ -22,7 +22,7 @@ I have developed way more recipes than I ever thought I would! After my initial 
 
 You can find my new website from the link below:
 
-[EdibleEm.com](edibleem.com)
+[EdibleEm.com]
 
 
 
