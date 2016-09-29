@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2016-09-28T00:00:00.000Z
+date: {}
 tags: coaching career lifestyle life
 image: logo.jpg
 ---
@@ -15,14 +15,14 @@ I have developed way more recipes than I ever thought I would! After my initial 
 
 **My second announcement is this:** I have branched out into fitness and holistic health with my interests and also my post topics. This topic of health as an all-encompassing lifestyle has got me thinking about my own life, and how I have been healed by more than just food. I am so (passionate?) about this, in fact, that **I have decided to pursue my certification as a CHEK Holistic Lifestyle Coach!** So stay tuned for some big exciting things (and hopefully more educated insights) to come!
 
-**Ok third announcement:** to accompany my ever-growing site and expanding knowledge, this website will from here out be called [Edible Em’s](edibleem.com). I went ahead and hired [a wonderful graphic designer](http://illustratornate.com) to make a new logo and had my wonderful [husband](http://rubennic.com) redesign the site to be more user friendly and searchable. I think it looks great!
+**Ok third announcement:** to accompany my ever-growing site and expanding knowledge, this website will from here out be called [Edible Em’s](www.edibleem.com). I went ahead and hired [a wonderful graphic designer](http://illustratornate.com) to make a new logo and had my wonderful [husband](http://rubennic.com) redesign the site to be more user friendly and searchable. I think it looks great!
 
 ![pic with logo.jpg](/content/pic-with-logo.jpg)
 
 
 You can find my new website at:
 
-EdibleEm.com
+[EdibleEm.com](www.edibleem.com)
 
 
 
