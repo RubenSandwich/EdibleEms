@@ -20,9 +20,9 @@ I have developed way more recipes than I ever thought I would! After my initial 
 ![pic with logo.jpg](/content/pic-with-logo.jpg)
 
 
-You can find my new website from the link below:
+You can find my new website at:
 
-[EdibleEm.com]
+EdibleEm.com
 
 
 
