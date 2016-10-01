@@ -34,11 +34,4 @@ body {
 
 .container {
   padding-top: 100px;
-  transition-property: all;
-  transition-duration: .5s;
-  transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
-}
-
-.container.hide {
-  padding-top: 30px;
 }
