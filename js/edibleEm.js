@@ -8,6 +8,11 @@ document.addEventListener('DOMContentLoaded', function () {
     // body.scrollTop is deprecated and no longer available on Firefox
     var bodyScrollTop = document.documentElement.scrollTop || document.body.scrollTop;
 
+    if (bodyScrollTop <= header.clientHeight) {
+      header.classList.remove('hide');
+      return;
+    }
+
     if (bodyScrollTop > previousScrollTop) {
       header.classList.add('hide');
     } else {
