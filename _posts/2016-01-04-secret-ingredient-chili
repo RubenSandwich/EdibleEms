@@ -1,7 +1,8 @@
 ---
 published: true
 layout: post
-date: {}
+date:
+  'Sun Jan 03 2016 19:00:00 GMT-0500 (EST)': null
 tags: chili comfortfood soup stew winterfood dairyfree
 image: chili1.jpg
 ---
