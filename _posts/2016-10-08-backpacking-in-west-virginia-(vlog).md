@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 layout: post
-date: 2016-10-08T00:00:00.000Z
+date: {}
 tags: backpacking camping life travel vacation healthytravel onthego nocook
 image: 4052.jpg
 ---
