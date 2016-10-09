@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+date:
+  'Mon Oct 10 2016 20:00:00 GMT-0400 (EDT)': null
+tags: chai pumpkin pumkinspice espresso coffee drink fall treats sweets
+image: null
 ---
 **Dirty Pumpkin Chai (Dairy Free)**
 
