@@ -4,7 +4,7 @@ layout: post
 date:
   'Fri Oct 07 2016 20:00:00 GMT-0400 (EDT)': null
 tags: backpacking camping life travel vacation healthytravel onthego nocook
-image: 4052.jpg
+image: IMG_4052.jpg
 ---
 16 miles, 3 days, 2 nights, and the only 1 not tired was the dog. 
 
