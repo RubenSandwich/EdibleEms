@@ -6,7 +6,7 @@ date:
 tags: chai pumpkin pumkinspice espresso coffee drink fall treats sweets
 image: null
 img: null
-imgage: IMG_4137.JPG
+imgage: IMG_4137.jpg
 ---
 Sometimes, you just want a little taste of pumpkin spice and/or coffee but not all the caffeine. This recipe is a great compromise for those days. 
 
