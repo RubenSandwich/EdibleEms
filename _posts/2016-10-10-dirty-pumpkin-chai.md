@@ -48,4 +48,3 @@ Sometimes, you just want a little taste of pumpkin spice and/or coffee but not a
  <br>
  
  ![IMG_4140.jpg]({{site.baseurl}}/_posts/IMG_4140.jpg)
-
