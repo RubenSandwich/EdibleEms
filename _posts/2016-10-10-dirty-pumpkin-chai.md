@@ -2,15 +2,13 @@
 published: true
 layout: post
 date:
-  'Mon Oct 10 2016 20:00:00 GMT-0400 (EDT)': null
+  'Mon Oct 10 2016 20:00:00 GMT-0400 (EDT)'
 tags: chai pumpkin pumkinspice espresso coffee drink fall treats sweets
-image: null
-img: null
-imgage: IMG_4137.jpg
+image: IMG_4137.jpg
 ---
 Sometimes, you just want a little taste of pumpkin spice and/or coffee but not all the caffeine. This recipe is a great compromise for those days. 
 
-![IMG_4128.jpg]({{site.baseurl}}/_posts/IMG_4128.jpg)
+![IMG_4128.jpg](/content/IMG_4128.jpg)
 
 
 **Dirty Pumpkin Chai (Dairy Free)**
@@ -47,4 +45,4 @@ Sometimes, you just want a little taste of pumpkin spice and/or coffee but not a
  
  <br>
  
- ![IMG_4140.jpg]({{site.baseurl}}/_posts/IMG_4140.jpg)
+ ![IMG_4140.jpg](/content/IMG_4140.jpg)
