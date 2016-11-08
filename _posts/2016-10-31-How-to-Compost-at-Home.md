@@ -14,10 +14,10 @@ After a few weeks in Pittsburgh with our garbage stinking of rotten food and try
 <br>
 
 
-**Here are the steps:**
+### Here are the steps:
 
 
-1. the container
+#### 1\. the container
 
 
 ![IMG_4266.jpg](/content/IMG_4266.JPG)
@@ -27,10 +27,10 @@ Everyplace online says to use buckets. Don’t do it - we tried (as you can see 
 
 
 
-[http://www.homedepot.com/p/HUSKY-Stackable-Storage-Bin-212327/203850470](http://www.homedepot.com/p/HUSKY-Stackable-Storage-Bin-212327/203850470)
+[HDX 17 Gal Storage Tote](http://www.homedepot.com/p/HDX-17-Gal-Storage-Tote-in-Black-HDX17GONLINE-6/205808350)
 
 
-This way the compost has more surface area to break down. Plus, the small flap on one side makes emptying plates out directly into your compost so easy!
+This way the compost has more surface area to break down. The container we have is angled on one side and has a small flap on one side that makes emptying plates out directly into your compost so easy! (But we were unable to find this container again online, which is why we linked to the one above.)
 
 
 Be sure to drill holes in the bottoms and sides, without air your food will not turn into compost.
@@ -39,7 +39,7 @@ Be sure to drill holes in the bottoms and sides, without air your food will not 
 ![IMG_4264.jpg](/content/IMG_4264.JPG)
 
 
-2. the brown stuff
+#### 2\. the brown stuff
 
 
 ![IMG_2023.jpg](/content/IMG_2023.JPG)
@@ -48,7 +48,7 @@ Be sure to drill holes in the bottoms and sides, without air your food will not 
 First, put a bottom layer of dirt, fallen tree leaves, or ripped up scratch paper. Every time you add a handful of food scraps you want to compost, you need to add a handful of what is referred to as “brown stuff,” or paper/dirt. This is a great way to get rid of all your junk mail. The ratio that I have found to work is 1:1.
 
 
-3. the green stuff
+#### 3\. the green stuff
 
 
 ![IMG_4270.jpg](/content/IMG_4270.JPG)
@@ -56,7 +56,7 @@ First, put a bottom layer of dirt, fallen tree leaves, or ripped up scratch pape
 
 Then you can put in the stuff you want to compost, being sure to add leaves/dirt/paper along the way.
 
-4. No red stuff
+#### 4\. No red stuff
 
 
 In case you haven’t heard already, meat won’t compost very well and also attracts animals. Feed any meat scraps to your dog instead.
@@ -65,7 +65,7 @@ In case you haven’t heard already, meat won’t compost very well and also att
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mIMbSdbD_RA" frameborder="0" allowfullscreen></iframe>
 
 
-5. STIR, STIR and STIR some more
+#### 5\. STIR, STIR and STIR some more
 
 
 
@@ -78,7 +78,7 @@ wait - it has taken me a year to get my first bit of actual compost. maybe this 
 you will likely get worms in your container - this is a good thing and helps speed along the process.
 
 
-6. then you have compost
+#### 6\. then you have compost
 
 
 ![IMG_4155.jpg](/content/IMG_4155.JPG)
