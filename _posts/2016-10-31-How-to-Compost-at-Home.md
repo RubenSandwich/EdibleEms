@@ -33,7 +33,7 @@ Everyplace online says to use buckets. Don’t do it - we tried (as you can see 
 This way the compost has more surface area to break down. The container we have is angled on one side and has a small flap on one side that makes emptying plates out directly into your compost so easy! (But we were unable to find this container again online, which is why we linked to the one above.)
 
 
-Be sure to drill holes in the bottoms and sides, without air your food will not turn into compost.
+Be sure to drill holes in every side of the container because without air flow your food will not turn into compost.
 
 
 ![IMG_4264.jpg](/content/IMG_4264.JPG)
