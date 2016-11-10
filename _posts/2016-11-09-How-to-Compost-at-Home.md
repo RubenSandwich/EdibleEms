@@ -56,7 +56,7 @@ First, put a bottom layer of dirt, fallen tree leaves, or ripped up scratch pape
 
 Then you can put in the stuff you want to compost, being sure to add leaves/dirt/paper along the way.
 
-#### 4\. No red stuff
+#### 4\. no red stuff
 
 
 In case you haven’t heard already, meat won’t compost very well and also attracts animals. Feed any meat scraps to your dog instead.
@@ -72,13 +72,17 @@ In case you haven’t heard already, meat won’t compost very well and also att
 You absolutely have to stir. Every week. It is not fun but it is the only way to get things going. Use a strong stick or a shovel - the stuff gets really hard to stir after a while.
 
 
-wait - it has taken me a year to get my first bit of actual compost. maybe this is due to cold winters in Pittsburgh and my lack of stirring. but still, there is a certain amount of time that it takes and you have to be ok with that.
+#### 6\. wait  
+
+It has taken me a year to get my first bit of actual compost. maybe this is due to cold winters in Pittsburgh and my lack of stirring. but still, there is a certain amount of time that it takes and you have to be ok with that.
 
 
-you will likely get worms in your container - this is a good thing and helps speed along the process.
+#### 7\. you will likely get worms in your container  
+
+This is a good thing and helps speed along the process.
 
 
-#### 6\. then you have compost
+#### 8\. then you have compost
 
 
 ![IMG_4155.jpg](/content/IMG_4155.JPG)
