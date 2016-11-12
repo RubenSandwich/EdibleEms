@@ -58,9 +58,7 @@ At the end of the week, however, Shepherd got onto the stage at one of our eveni
 
 <br>
 
-**Want more information about our love story? Check out these posts:**
 
-1. [Part 2 of The Story of Ruben and Emily](
 I always thought I would find my husband at college. All three of my older siblings found their significant others at college, so that’s where you meet people right?
 
 That meant I had four years to find someone or I wouldn’t get married.
