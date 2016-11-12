@@ -8,6 +8,8 @@ image: Wedding_Top_Picks 193.jpg
 
 If you missed the first parts, begin [here](http://edibleem.com/how-he-unintentionally-had-me-hooked) and read our story. Otherwise, the following part of the story may not make much sense to you at all. 
 
+..........................................................................................................................................
+
 <br>
 
 
