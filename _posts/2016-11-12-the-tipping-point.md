@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2016-11-12T00:00:00.000Z
 tags: relationships emilyandruben love wedding life
-image: Wedding_Top_Picks 193.JPG
+image: Wedding_Top_Picks 193.jpg
 ---
 
 If you missed the first parts, begin [here](http://edibleem.com/how-he-unintentionally-had-me-hooked) and read our story. Otherwise, the following part of the story may not make much sense to you at all. 
