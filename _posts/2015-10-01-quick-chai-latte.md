@@ -12,6 +12,8 @@ Some days you just want a warm comforting, spicy drink. Here's one you can have 
 
 For one cup, just steep a few ingredients in hot water, milk, or a combination of the two:
 
+<br>
+
 * 1 cinnamon stick
 
 * 1/4 teaspoon whole cloves
@@ -21,6 +23,10 @@ For one cup, just steep a few ingredients in hot water, milk, or a combination o
 * 1-2 teaspoons loose leaf black tea (or 1 plain black tea bag)
 
 * A few peppercorns
+
+<br>
+
+Blend together if desired frothiness is not met through boiling alone.
 
 I like to use the spices in their whole form, but powdered spices work just as nicely.
 
