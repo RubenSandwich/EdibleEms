@@ -1,4 +1,3 @@
-
 ---
 published: true
 layout: post
@@ -6,6 +5,9 @@ date: 2016-11-24T00:00:00.000Z
 tags: holidays healthy healthyholidays healthyeating stress life lifestyle family relationships
 image: DSC01061.JPG
 ---
+
+
+<br>
 
 The holiday season is often a time where people tend to slip up and ignore their health. It is just so hard to exercise when the weather is drizzly, it is dark outside, and it is much easier to stay at home, drink hot chocolate, and eat all the carbs. I always struggle during this season, especially when visiting family and going to parties where the food is not always healthy. This only makes the holiday times less enjoyable, as I end up feeling sick, bloated, and cranky the whole time from all the sugar and excess carbs. This year I am determined to make the most of my time with my family and friends without the guilt and sickness of unhealthy holiday foods.
 
@@ -24,7 +26,7 @@ Here are some of my goals and suggestions for how to enjoy the holidays with opt
 
 
 
-Tip #1: Bring your own dessert.
+**Tip #1: Bring your own dessert.**
 
 
 
@@ -39,7 +41,7 @@ Besides, you can never go wrong with bringing [chocolate cake](http://edibleem.c
 
 
 
-Tip #2: Offer to cook.
+**Tip #2: Offer to cook.**
 
 
 
@@ -66,7 +68,7 @@ Do keep it simple though, as cooking for lots of people can be a little time con
 
 
 
-Tip #3: Make your own lattes.
+**Tip #3: Make your own lattes.**
 
 
 
@@ -94,7 +96,7 @@ You could also try my recipes for my [Quick Chai Latte](http://edibleem.com/quic
 
 
 
-Tip #4: Explain.
+**Tip #4: Explain.**
 
 
 
@@ -104,7 +106,7 @@ Something I always get self conscious about is when I forget to bring a dessert 
 
 
 
-Tip #5: Drink smarter
+**Tip #5: Drink smarter**
 
 
 
@@ -128,7 +130,7 @@ Try instead:
 
 
 
-Tip #6: Don’t beat yourself up for having a piece of Grandma’s pie.
+**Tip #6: Don’t beat yourself up for having a piece of Grandma’s pie.**
 
 
 
