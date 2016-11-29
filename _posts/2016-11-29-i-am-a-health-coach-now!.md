@@ -1,4 +1,15 @@
 
+---
+published: false
+layout: post
+date: 2016-11-29T00:00:00.000Z
+tags: health healthcoaching lifecoaching life lifestyle coaching food diet nutrition mealplans corporatewellness chekcoach chekinstitute goals 
+image: 
+---
+
+
+<br>
+
 I did it!!
 
 
@@ -45,19 +56,18 @@ Most people likely do not know what a CHEK coach can do, so here is a list of ju
 ◦Stress management (my specialty!)
 
 
-◦Assessment of (your dreams)..
-
-
 ◦Optimizing your diet
 
 
 ◦General life coaching
 
+* Working towards your goals
+
 
 •Corporate wellness talks
 
 
-◦Lunch & learn presentations at your office
+  ◦Lunch & learn presentations at your office
 
 
 •Personalized meal plan ideas
@@ -69,13 +79,13 @@ Most people likely do not know what a CHEK coach can do, so here is a list of ju
 •Grocery store walk-through
 
 
-◦One-on-one or with a group
+  ◦One-on-one or with a group
 
 
 •Fridge & pantry assessments 
 
 
-◦In-person or via Skype
+  ◦In-person or via Skype
 
 
 •Basic meditation techniques
