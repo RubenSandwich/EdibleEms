@@ -1,9 +1,8 @@
-
 ---
 published: true
 layout: post
 date: 2016-11-29T00:00:00.000Z
-tags: health healthcoaching lifecoaching life lifestyle coaching food diet nutrition mealplans corporatewellness chekcoach chekinstitute goals 
+tags: health healthcoaching lifecoaching life lifestyle coaching food diet nutrition mealplans corporatewellness chekcoach chekinstitute goals
 image: 15055636_10153875825930974_8288685357941737119_n.jpg
 ---
 
@@ -61,7 +60,7 @@ Most people likely do not know what a CHEK coach can do, so here is a list of ju
 
 
   ◦General life coaching
-  
+
 
 * Working towards your goals
 
@@ -84,7 +83,7 @@ Most people likely do not know what a CHEK coach can do, so here is a list of ju
   ◦One-on-one or with a group
 
 
-•Fridge & pantry assessments 
+•Fridge & pantry assessments
 
 
   ◦In-person or via Skype
@@ -96,7 +95,7 @@ Most people likely do not know what a CHEK coach can do, so here is a list of ju
 <br>
 
 
-Anything not on there that you want? Just ask and I will see what I can do. 
+Anything not on there that you want? Just ask and I will see what I can do.
 
 
 
