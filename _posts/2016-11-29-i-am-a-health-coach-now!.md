@@ -29,7 +29,7 @@ I could not be more excited take my obsession with health to the next level and 
 
 
 
-
+<br>
 
 
 
@@ -43,6 +43,7 @@ I could not be more excited take my obsession with health to the next level and 
 
 
 
+<br>
 
 
 Most people likely do not know what a CHEK coach can do, so here is a list of just some of the services I can now provide:
@@ -53,13 +54,14 @@ Most people likely do not know what a CHEK coach can do, so here is a list of ju
 •One-on-one coaching on any of the following topics:
 
 
-◦Stress management (my specialty!)
+  ◦Stress management (my specialty!)
 
 
-◦Optimizing your diet
+  ◦Optimizing your diet
 
 
-◦General life coaching
+  ◦General life coaching
+  
 
 * Working towards your goals
 
