@@ -22,7 +22,7 @@ I could not be more excited take my obsession with health to the next level and 
 
 Most people likely do not know what a CHEK coach can do, so here is a list of just some of the services I can now provide:
 
-## One-on-one coaching on any of the following topics:
+### One-on-one coaching on any of the following topics:
 
 - Stress management (my specialty!)
 - Optimizing your diet
