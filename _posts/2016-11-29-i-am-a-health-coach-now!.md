@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2016-11-29T00:00:00.000Z
 tags: health healthcoaching lifecoaching life lifestyle coaching food diet nutrition mealplans corporatewellness chekcoach chekinstitute goals
-image: 15055636_10153875825930974_8288685357941737119_n.jpg
+image: healthcoach.jpg
 ---
 
 
@@ -24,7 +24,7 @@ I could not be more excited take my obsession with health to the next level and 
 
 
 
-![15055636_10153875825930974_8288685357941737119_n.jpg](/content/15055636_10153875825930974_8288685357941737119_n.jpg)
+![healthcoach.jpg](/content/healthcoach.jpg)
 
 
 
