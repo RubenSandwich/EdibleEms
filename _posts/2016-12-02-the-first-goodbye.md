@@ -10,8 +10,11 @@ image: print_1 (1)
 
 Warning: This story might not make sense to you if you haven’t heard what happened first. You can read the first parts starting [here](http://edibleem.com/how-he-unintentionally-had-me-hooked).
 
+<br> 
 
-PICTURE 
+![pictur](/content/pictur)
+
+<br>
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
 <!-- Please call pinit.js only once per page -->
