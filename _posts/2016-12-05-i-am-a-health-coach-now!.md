@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2016-11-29T00:00:00.000Z
+date: 2016-12-05T00:00:00.000Z
 tags: health healthcoaching lifecoaching life lifestyle coaching food diet nutrition mealplans corporatewellness chekcoach chekinstitute goals
 image: healthcoach.jpg
 ---
