@@ -1,3 +1,13 @@
+---
+published: true
+layout: post
+date: 2016-12-02T00:00:00.000Z
+tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyle 
+image: print_1 (1)
+---
+
+
+
 Warning: This story might not make sense to you if you haven’t heard what happened first. You can read the first parts starting [here](http://edibleem.com/how-he-unintentionally-had-me-hooked).
 
 
