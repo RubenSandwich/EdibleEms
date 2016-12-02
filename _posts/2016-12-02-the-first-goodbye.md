@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2016-12-02T00:00:00.000Z
 tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyle 
-image: print
+image: first_goodbye
 ---
 
 
@@ -12,7 +12,7 @@ Warning: This story might not make sense to you if you haven’t heard what happ
 
 <br> 
 
-![Full page photo](/content/Full page photo)
+![Yakima](/content/Yakima)
 
 <br>
 
