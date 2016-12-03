@@ -13,3 +13,20 @@ iframe {
   height: 100%;
   margin: 0% 2.5% 2.5%;
 }
+
+.tagsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+
+.tag {
+  margin: 0 10px 0;
+  color: #7878A4;
+}
+
+.tag:hover {
+  color: #A6A6C3;
+}

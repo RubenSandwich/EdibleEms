@@ -14,5 +14,11 @@ layout: default
     {{ page.date | date: "%b %-d, %Y" }}
   </h3>
 
+  <div class="tagsContainer">
+    {% for tag in page.tags %}
+      <a href="test" class="tag">#{{ tag }}</a>
+    {% endfor %}
+  </div>
+
   {{ content }}
 </div>
