@@ -14,6 +14,8 @@ Warning: This story might not make sense to you if you haven’t heard what happ
 
 ![yakima.jpg](/content/yakima.jpg)
 
+*This is a picture of us late that winter during the school year when we were talking about having me go back to work at camp.*
+
 <br>
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
