@@ -45,20 +45,12 @@ header.hide {
 
 .popdown-header div {
   border-bottom: 2px solid #A6A6C3;
-  height: 40px;
+  height: 50px;
 }
 
 .popdown-header a {
-  display: block;
   text-indent: 2rem;
-  color: #F7F7F7;
-  text-decoration: none;
-  font-size: 28px;
-}
-
-.popdown-header a:hover,
-.popdown-header a:focus {
-  color: #A6A6C3;
+  line-height: 50px;
 }
 
 #mobileMenuIcon {
@@ -138,6 +130,32 @@ header.hide {
   left: 50%;
 }
 
+.centerItems {
+  align-items: center;
+}
+
+.menuMargins {
+  margin: 15px;
+}
+
+.menuLinks:hover,
+.menuLinks:focus {
+  color: #A6A6C3;
+}
+
+.menuLinks {
+  display: block;
+  color: #F7F7F7;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+.separator {
+  background: white;
+  width: 2px;
+  height: 28px;
+}
+
 body {
   background-color: #F7F7F7;
   font-size: 2em;
@@ -164,4 +182,24 @@ img {
 
 .container {
   padding-top: 100px;
+}
+
+@media (min-width: 550px) {
+  .hideOnMobile {
+    display: inline-flex;;
+  }
+
+  .showOnMobile {
+    display: none;
+  }
+}
+
+@media (max-width: 550px) {
+  .hideOnMobile {
+    display: none;
+  }
+
+  .showOnMobile {
+    display: block;
+  }
 }
