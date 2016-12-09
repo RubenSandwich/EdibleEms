@@ -11,7 +11,7 @@ If you missed the first parts of the story, this post may not make much sense to
 <br>
 
 
-![Wedding_Top_Picks 222.jpg](/content/Wedding_Top_Picks 222.jpg)
+![Wedding_Top_Picks 224.jpg](/content/Wedding_Top_Picks 224.jpg)
 
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
