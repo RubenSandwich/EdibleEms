@@ -7,6 +7,10 @@ header {
   background-color: #7878A4;
   border-bottom: 6px solid #A6A6C3;
 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
   margin-top: 0;
   transition-property: all;
 	transition-duration: .5s;
@@ -15,6 +19,123 @@ header {
 
 header.hide {
   margin-top: -70px;
+}
+
+.slider {
+  overflow-y: hidden;
+  max-height: 204px;
+  transition-property: all;
+  -webkit-transition: .4s cubic-bezier(0.4, 0, 0.2, 1);
+  -moz-transition: .4s cubic-bezier(0.4, 0, 0.2, 1);
+  -o-transition: .4s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: .4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.slider.closed {
+  max-height: 0px;
+}
+
+.popdown-header {
+  position: fixed;
+  left: 0;
+  margin-top: 30px;
+  width: 100%;
+  background-color: #7878A4;
+}
+
+.popdown-header div {
+  border-bottom: 2px solid #A6A6C3;
+  height: 40px;
+}
+
+.popdown-header a {
+  display: block;
+  text-indent: 2rem;
+  color: #F7F7F7;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+.popdown-header a:hover,
+.popdown-header a:focus {
+  color: #A6A6C3;
+}
+
+#mobileMenuIcon {
+  width: 40px;
+  height: 22.5px;
+  margin-right: 2rem;
+  display: inline-block;
+  position: relative;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .5s ease-in-out;
+  -moz-transition: .5s ease-in-out;
+  -o-transition: .5s ease-in-out;
+  transition: .5s ease-in-out;
+  cursor: pointer;
+}
+
+/* TODO: Change the all of the span colors on focus or hover */
+
+#mobileMenuIcon span {
+  display: block;
+  position: absolute;
+  height: 3px;
+  width: 100%;
+  background: #F7F7F7;
+  border-radius: 9px;
+  opacity: 1;
+  left: 0;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: .25s ease-in-out;
+  -moz-transition: .25s ease-in-out;
+  -o-transition: .25s ease-in-out;
+  transition: .25s ease-in-out;
+}
+
+#mobileMenuIcon span:nth-child(1) {
+  top: 0px;
+}
+
+#mobileMenuIcon span:nth-child(2),
+#mobileMenuIcon span:nth-child(3) {
+  top: 10px;
+}
+
+#mobileMenuIcon span:nth-child(4) {
+  top: 20px;
+}
+
+#mobileMenuIcon.open span:nth-child(1) {
+  top: 18px;
+  width: 0%;
+  left: 50%;
+}
+
+#mobileMenuIcon.open span:nth-child(2) {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#mobileMenuIcon.open span:nth-child(3) {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+#mobileMenuIcon.open span:nth-child(4) {
+  top: 18px;
+  width: 0%;
+  left: 50%;
 }
 
 body {
@@ -26,13 +147,18 @@ img {
   width: 100%;
 }
 
+.logoLink {
+  display: inline-block;
+}
+
 .logo {
   width: 135;
   height: 80px;
   fill: #F7F7F7;
 }
 
-.logo:hover {
+.logo:hover,
+.logo:focus {
   fill: #A6A6C3;
 }
 
