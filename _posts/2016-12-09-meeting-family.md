@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2016-12-09T00:00:00.000Z
 tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyle  
-image: meetingfamily.jpg
+image: meeting family.jpg
 ---
 
 If you missed the first parts of the story, this post may not make much sense to you. Find the rest of the love story starting at [Part 1](http://edibleem.com/how-he-unintentionally-had-me-hooked).
