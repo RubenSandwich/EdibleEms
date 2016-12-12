@@ -16,10 +16,11 @@ If you know me pretty well or even if you’ve just met me, than you probably kn
 
 
 
-Now that fall is here and winter is approaching, weather has cooled and it’s starting to become harder to enjoy the outdoors even though a lot of us want and honestly mean to. 
+Now that fall has came and gone and winter is quickly picking up, weather has cooled and it’s starting to become harder to enjoy the outdoors even though a lot of us want and honestly mean to. 
 
+<br>
 
-Here are a couple of ways that I still manage to enjoy the outdoors while temperatures are dropping:
+**Here are a couple of ways that I still manage to enjoy the outdoors while temperatures are dropping:**
 
 
 1.You don’t have to be outside all day to see a benefit! Even 30 minutes of walking in our neighborhood park can leave me feeling so refreshed. Still think that isn't enough? Try going outside twice a day for 20-30 minutes a day instead of in one long chunk. Go to a park close to your house and just go twice, morning and night. What else are Saturdays for?
