@@ -13,7 +13,9 @@ If you know me pretty well or even if you’ve just met me, than you probably kn
 
 ![IMG_1888.JPG](/content/IMG_1888.JPG)
 
-*Niagara Falls, NY*
+*Niagara Falls, NY, April 2016*
+
+<br>
 
 
 Now that fall has came and gone and winter is quickly picking up, weather has cooled and it’s starting to become harder to enjoy the outdoors even though a lot of us want and honestly mean to. 
