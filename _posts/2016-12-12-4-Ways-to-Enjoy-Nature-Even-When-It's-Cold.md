@@ -1,8 +1,19 @@
 
+---
+published: true
+layout: post
+date: 2016-12-12T00:00:00.000Z
+tags: life outdoors lifestyle nature health mindset 
+image: 
+---
+
+
+
+
 If you know me pretty well or even if you’ve just met me, than you probably know how much I love to be outdoors. I’m not a serious outdoorswoman or a huge thrill seeker, but I love to be in nature doing an easy walk or resting and reading by a river somewhere.
 
+![IMG_1888.jpg](/content/IMG_1888jpg)
 
-IMG 1888
 
 
 Now that fall is here and winter is approaching, weather has cooled and it’s starting to become harder to enjoy the outdoors even though a lot of us want and honestly mean to. 
