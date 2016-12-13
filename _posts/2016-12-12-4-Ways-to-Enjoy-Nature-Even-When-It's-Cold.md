@@ -26,7 +26,7 @@ Now that fall has came and gone and winter is quickly picking up, weather has co
 
 <br>
 
-1. You don’t have to be outside all day to see a benefit! Even 30 minutes of walking in our neighborhood park can leave me feeling so refreshed. Still think that isn't enough? Try going outside twice a day for 20-30 minutes a day instead of in one long chunk. Go to a park close to your house and just go twice, morning and night. What else are Saturdays for?
+1.You don’t have to be outside all day to see a benefit! Even 30 minutes of walking in our neighborhood park can leave me feeling so refreshed. Still think that isn't enough? Try going outside twice a day for 20-30 minutes a day instead of in one long chunk. Go to a park close to your house and just go twice, morning and night. What else are Saturdays for?
 
 
 2. Bundle up! So obvious but a good coat, shoes, and long underwear can make a world of difference.
