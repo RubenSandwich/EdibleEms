@@ -184,22 +184,22 @@ img {
   padding-top: 100px;
 }
 
-@media (min-width: 550px) {
-  .hideOnMobile {
+@media (min-width: 650px) {
+  .menuHideOnMobile {
     display: inline-flex;;
   }
 
-  .showOnMobile {
+  .menuShowOnMobile {
     display: none;
   }
 }
 
-@media (max-width: 550px) {
-  .hideOnMobile {
+@media (max-width: 650px) {
+  .menuHideOnMobile {
     display: none;
   }
 
-  .showOnMobile {
+  .menuShowOnMobile {
     display: block;
   }
 }
