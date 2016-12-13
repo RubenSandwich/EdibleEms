@@ -1,0 +1,13 @@
+---
+layout: default
+published: true
+---
+
+<div class="container" id="container">
+
+  {% capture page %}
+    {% include_relative _pages/workWithMe.md %}
+  {% endcapture %}
+  {{ page | markdownify }}
+
+</div>
