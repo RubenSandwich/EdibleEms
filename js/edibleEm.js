@@ -1,7 +1,23 @@
 
 document.addEventListener('DOMContentLoaded', function () {
-  var previousScrollTop = 0;
+  var mobileMenu = document.getElementById('mobileMenuIcon');
   var header = document.getElementById('header');
+
+  var mobileMenuHidden = true;
+  var previousScrollTop = 0;
+
+  function toggleMobileMenu() {
+    var slider = document.getElementById('mobileMenuSlider');
+
+    mobileMenu.classList.toggle('open');
+    slider.classList.toggle('closed');
+
+    mobileMenuHidden = !mobileMenuHidden;
+  }
+
+  mobileMenu.onclick = function () {
+    toggleMobileMenu();
+  };
 
   // If scrolling down then hide the header
   window.onscroll = function () {
@@ -17,6 +33,10 @@ document.addEventListener('DOMContentLoaded', function () {
       header.classList.add('hide');
     } else {
       header.classList.remove('hide');
+    }
+
+    if (!mobileMenuHidden) {
+      toggleMobileMenu();
     }
 
     previousScrollTop = bodyScrollTop;

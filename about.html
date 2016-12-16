@@ -1,0 +1,11 @@
+---
+layout: page
+title: About
+---
+
+<h1>About</h1>
+
+{% capture page %}
+  {% include_relative _pages/about.md %}
+{% endcapture %}
+{{ page | markdownify }}
