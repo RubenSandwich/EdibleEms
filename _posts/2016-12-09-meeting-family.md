@@ -26,7 +26,7 @@ A year had gone by and I had not yet met his family.
 
 
 
-At first, it seemed a bit odd but after Ruben repeating that he just was not close with his family and that they tended to seem cold due to their culture (a very Eastern-European stereotype), so I stopped thinking too much about it.
+At first, it seemed a bit odd but after Ruben repeating that they tended to seem cold due to their culture (a very Eastern-European stereotype), so I stopped thinking too much about it.
 
 
 
