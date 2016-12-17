@@ -57,6 +57,7 @@ I don’t remember what he said at all, I was suddenly so nervous. He took out a
 
 *Except our professional photos, which were taken by [Kyle Zada](http://kylezada.wix.com/kz-photography#!)*
 
+<br>
 
 I soon found out all the playing on the phone and long bathroom breaks were Ruben trying to tell Stephen we would be late. Of course his phone died this morning so Ruben couldn’t get ahold of him!
 
