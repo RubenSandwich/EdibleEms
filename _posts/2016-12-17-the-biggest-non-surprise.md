@@ -19,7 +19,7 @@ If you missed the first parts of the story, this post may not make much sense to
 This part of the story is especially exciting, as it happens to fall exactly on the day when Ruben proposed! Read on for the story of our engagement. 
 
 
-Engagement photos by [Kyle Zada](http://kylezada.wix.com/kz-photography#!)
+*Engagement photos by [Kyle Zada](http://kylezada.wix.com/kz-photography#!)*
 
 
 ![100_6247.JPG](/content/100_6247.JPG)
