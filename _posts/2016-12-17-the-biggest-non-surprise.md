@@ -13,7 +13,7 @@ If you missed the first parts of the story, this post may not make much sense to
 <br>
 
 
-![close-up.jpg](/content/close-up.jpg)
+![close_up.jpg](/content/close_up.jpg)
 
 
 This part of the story is especially exciting, as it happens to fall exactly on the day when Ruben proposed! Read on for the story of our engagement. 
@@ -63,4 +63,4 @@ I soon found out all the playing on the phone and long bathroom breaks were Rube
 
 Ruben did not actually have evening plans (except celebrating with me!), so we spent the afternoon running around, celebrating an impromptu dinner at a sushi bar, and calling friends and family. The timing was perfect, allowing for a week of engagement-bliss and ending with a special Christmas celebration with my family - Ruben had already planned on spending Christmas with my family and we had an even more memorable time being able to celebrate our engagement with my family in person. 
 
-![picnic-bench.jpg](/content/picnic-bench.jpg)
+![picnic_bench.jpg](/content/picnic_bench.jpg)
