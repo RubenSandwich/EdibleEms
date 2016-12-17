@@ -25,9 +25,9 @@ This part of the story is especially exciting, as it happens to fall exactly on 
 ![100_6247.JPG](/content/100_6247.JPG)
 
 
-*So happy I couldn’t keep my eyes open! 
+*So happy I couldn’t keep my eyes open!*
 
-Mt Tabor City Park, December 2013*
+*Mt Tabor City Park, December 2013*
 
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
