@@ -14,24 +14,24 @@ Not at all the traditional Christmas side dish, this mixture of spice and starch
 
 *Ingredients:* 
 
-* 5-6 small red potatoes
+*5-6 small red potatoes
 
-* 1 jalapeno
+*1 jalapeno
 
-* 2 T grass fed butter, pastured lard, or avocado oil (may need more if the potatoes start sticking to the pan)
+*2 T grass fed butter, pastured lard, or avocado oil (may need more if the potatoes start sticking to the pan)
 
-* Salt & pepper to taste
+*Salt & pepper to taste
 
 <br>
 
 *Directions:* 
 
-1. Slice red potatoes into discs. Leave the skin on for the color.
+1.Slice red potatoes into discs. Leave the skin on for the color.
 
-2. Slice the jalapeno into discs as well, using a spoon to take out the seeds out as you go. 
+2.Slice the jalapeno into discs as well, using a spoon to take out the seeds out as you go. 
 
-3. Melt the butter or pour the avocado oil into a cast iron skillet or large frying pan over medium-low heat. Once it is melted, add the potatoes and jalapenos at the same time. Season with salt and pepper. 
+3.Melt the butter or pour the avocado oil into a cast iron skillet or large frying pan over medium-low heat. Once it is melted, add the potatoes and jalapenos at the same time. Season with salt and pepper. 
 
-4. Leave the potatoes and jalapeno to cook, stirring every 4-5 minutes or so. They will take quite a while to cook, but you can leave them going while preparing other dishes at the same time. Be sure to stir every so often, though, otherwise they will burn.
+4.Leave the potatoes and jalapeno to cook, stirring every 4-5 minutes or so. They will take quite a while to cook, but you can leave them going while preparing other dishes at the same time. Be sure to stir every so often, though, otherwise they will burn.
 
-5. After about 25-30 minutes, the potatoes should be cooked and the jalapenos will be soft and way less spicy. Season again with salt and pepper to taste, and serve up!
+5.After about 25-30 minutes, the potatoes should be cooked and the jalapenos will be soft and way less spicy. Season again with salt and pepper to taste, and serve up!
