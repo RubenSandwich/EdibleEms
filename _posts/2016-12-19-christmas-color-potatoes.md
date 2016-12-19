@@ -10,6 +10,8 @@ Not at all the traditional Christmas side dish, this mixture of spice and starch
 
 ![IMG_4550.jpg](/content/IMG_4550.jpg)
 
+*I probably used a bit too much oil in this picture, so the potatoes didn't get crispy enough. Start with less oil and you can always add more if they start sticking to the pan.*
+
 <br>
 
 *Ingredients:* 
