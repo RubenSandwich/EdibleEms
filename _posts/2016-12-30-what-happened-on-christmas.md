@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2016-12-30T00:00:00.000Z
 tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyle engagement family
-image: 
+image: IMG_2770.JPG
 ---
 
 This week we are continuing the story of Ruben & Emily and picking up right after [he finally proposed](http://edibleem.com/the-biggest-non-surprise)! If you missed the first parts of the story, you can find them starting [here](http://edibleem.com/how-he-unintentionally-had-me-hooked).
