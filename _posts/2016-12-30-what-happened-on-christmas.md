@@ -8,7 +8,9 @@ image: IMG_2770.JPG
 
 This week we are continuing the story of Ruben & Emily and picking up right after [he finally proposed](http://edibleem.com/the-biggest-non-surprise)! If you missed the first parts of the story, you can find them starting [here](http://edibleem.com/how-he-unintentionally-had-me-hooked).
 
+<br>
 
+![IMG_4743.jpg](/content/IMG_4743.jpg)
 
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
