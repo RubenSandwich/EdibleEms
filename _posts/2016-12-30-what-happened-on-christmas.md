@@ -12,6 +12,8 @@ This week we are continuing the story of Ruben & Emily and picking up right afte
 
 ![IMG_4743.JPG](/content/IMG_4743.JPG)
 
+*Ruben and I enjoying our winter break as an engaged couple, December 2013*
+
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
 <!-- Please call pinit.js only once per page -->
