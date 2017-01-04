@@ -19,6 +19,8 @@ This week we are continuing the story of Ruben & Emily and picking up right afte
 <!-- Please call pinit.js only once per page -->
 <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
+<br>
+
 **A Week Long Engagement**
 
 After Ruben proposed, everything was bliss. I had just finished the school semester, was well on my way to graduate in a few months, and we were heading into Christmas within the next week. Life was so good! Until Christmas...
