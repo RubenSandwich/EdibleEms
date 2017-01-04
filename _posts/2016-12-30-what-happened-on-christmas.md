@@ -10,7 +10,7 @@ This week we are continuing the story of Ruben & Emily and picking up right afte
 
 <br>
 
-![IMG_4743.jpg](/content/IMG_4743.jpg)
+![IMG_4743.JPG](/content/IMG_4743.JPG)
 
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
