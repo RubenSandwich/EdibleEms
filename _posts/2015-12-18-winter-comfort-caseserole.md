@@ -8,6 +8,8 @@ image: winter-comfort-bake.jpg
 
 I know casseroles get a bad-rap a lot of times, but this dish will please anyone! The sun dried tomatoes give it such a unique flavor and after being baked, this recipe becomes a perfect balance of starch, protein, and veggies and perfectly in between too moist and too dry.
 
+![winter-comfort-bake.jpg](/content/winter-comfort-bake.jpg)
+
 **Sun Dried Tomato Spaghetti Squash Bake**
 
 *Serves 4-6*
