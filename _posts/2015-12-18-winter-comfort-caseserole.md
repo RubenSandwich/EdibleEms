@@ -1,3 +1,11 @@
+---
+published: true
+layout: post
+date: 2015-12-18T00:00:00.000Z
+tags: winter comfortfood dinner primal paleo dairyfree glutenfree grainfree easyrecipe squash 
+image: winter-comfort-bake.jpg
+---
+
 I know casseroles get a bad-rap a lot of times, but this dish will please anyone! The sun dried tomatoes give it such a unique flavor and after being baked, this recipe becomes a perfect balance of starch, protein, and veggies and perfectly in between too moist and too dry.
 
 **Sun Dried Tomato Spaghetti Squash Bake**
