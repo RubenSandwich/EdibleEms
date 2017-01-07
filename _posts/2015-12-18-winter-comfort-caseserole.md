@@ -14,7 +14,9 @@ I know casseroles get a bad-rap a lot of times, but this dish will please anyone
 
 *Serves 4-6*
 
-  Ingredients:
+<br>
+
+**Ingredients:**
   
 * 1 small spaghetti squash
 
