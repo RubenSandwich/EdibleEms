@@ -38,7 +38,7 @@ I know casseroles get a bad-rap a lot of times, but this dish will please anyone
 
 * Goat cheese to taste, optional
 
-  Directions:
+**Directions:**
   
 1. Cook the spaghetti squash. You can either do this in the crockpot or in the oven. Be sure to add water so the squash cooks a bit nicer. 
 
