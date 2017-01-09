@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2017-01-08T00:00:00.000Z
 tags: life travel vacation healthytravel onthego nocook airportfood portable lunch dinner snacks
-image: 
+image: IMG_4299.JPG
 ---
 
 <br>
@@ -12,7 +12,7 @@ Everybody knows that it is so difficult to eat healthy while traveling, but espe
 
 *A warning: my tips are not how to stay PERFECTLY clean and healthy, but rather give you options for a more balanced trip. There may be other ways to stay on a strict diet, particularly for people with allergies, but I have only begun to dig into this subject and these are simply my suggestions for the best trips from my experience. I hope it is helpful!*
 
-[VIDEO]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6zkiIGwL5Ok" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
