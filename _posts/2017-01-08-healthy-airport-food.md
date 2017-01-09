@@ -30,5 +30,7 @@ Everybody knows that it is so difficult to eat healthy while traveling, but espe
 
 5. Try to make a grocery store run as soon as you can once you arrive. 
 
+<br>
+
 
 **What about you, what have you found make your airplane trips healthier?**
