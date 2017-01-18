@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2017-01-16T00:00:00.000Z
+date: 2017-01-17T00:00:00.000Z
 tags: breakfast dairyfree glutenfree paleo primal cleaneating 
 image: IMG_4115.JPG
 ---
