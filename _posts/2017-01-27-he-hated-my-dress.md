@@ -40,7 +40,7 @@ As soon as I arrived to Ruben’s house so we could carpool to a nearby park for
 “Oh you’re wearing that to our engagement pictures?” he asked. Wrong question. I was wearing a nice (I thought), wintery white sweaterdress that was so cozy and cute (I still think it is cute!). Unfortunately since then I have thrown it away and haven’t gotten a good picture of it, but you can see a bit of it in the picture below.
 
 
-![.jpg](/content/.jpg)
+![ugly dress.jpg](/content/ugly dress.jpg)
 
 
 I was so hurt and confused but I obviously felt way too self-conscious to wear the dress now. I had come early so we could hang out but immediately left (I’ll admit, in a bit of a huff), and drove the 30 minutes back home, then 30 minutes back to Ruben’s. The whole time I was fuming and got angrier as I sat in traffic, angry that Ruben “made me” waste so much time, gas, and worry. 
