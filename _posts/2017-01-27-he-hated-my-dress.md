@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2017-01-27T00:00:00.000Z
 tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyle engagement family
-image:no_eye_contact.jpg
+image: no_eye_contact.jpg
 ---
 
 ![classic.jpg](/content/classic.jpg)
