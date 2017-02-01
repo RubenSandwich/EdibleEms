@@ -6,11 +6,14 @@ tags: breakfast dairyfree glutenfree paleo primal cleaneating
 image: FullSizeRender-2.jpg
 ---
 
+![IMG_4692.JPG](/content/IMG_4692.JPG)
+
 **Easy Cabbage Stiry Fry**
 
 *Serves 3-4*
 
 This simple stir fry is a great weeknight dinner for any night of the week. Serve with rice or other clean starch for a full meal.
+
 
 <br>
 
