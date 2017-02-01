@@ -6,7 +6,7 @@ tags: breakfast dairyfree glutenfree paleo primal cleaneating
 image: FullSizeRender-2.jpg
 ---
 
-![IMG_4691.JPG](/content/IMG_4691.JPG)
+![IMG_4691-2.JPG](/content/IMG_4691-2.JPG)
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
 
