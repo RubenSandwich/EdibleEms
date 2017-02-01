@@ -1,4 +1,10 @@
-
+---
+published: true
+layout: post
+date: 2017-01-31T00:00:00.000Z
+tags: breakfast dairyfree glutenfree paleo primal cleaneating 
+image: FullSizeRender-2.jpg
+---
 
 **Easy Cabbage Stiry Fry**
 
