@@ -6,7 +6,7 @@ tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyl
 image: sunflowers.jpg
 ---
 
-![.jpg](/content/.jpg)
+![sunflowers.jpg](/content/sunflowers.jpg)
 
 
 <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
@@ -23,7 +23,6 @@ If you missed the first parts of this story, it may not make much sense at this 
 
 **The wedding was 3 weeks away.**
 
-![.jpg](/content/.jpg)
 
 Thursday, May 1st, 2014. I had just taken my last final of my undergraduate career and suddenly everything slowed down and there was only the wedding in my mind. The next 3 weeks were preparations, final planning, and trying to get calm after all of the drama of the past 6 months. I thought it would be time but I learned later that I needed so, so much more. But, life is life and I needed to start work and pay bills, unfortunately. Once I began working I’d have 6 months before I could take even 1 day of vacation (I know, state jobs aren’t all that easy) so it was time to get married now or wait another 6 months. I was ready to get it done, but time crept by so slowly these three weeks that it just felt like a whole year between school ending and the actual wedding day. 
 
