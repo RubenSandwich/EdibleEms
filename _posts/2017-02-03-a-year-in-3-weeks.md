@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2017-02-02T00:00:00.000Z
 tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyle engagement family
-image: .jpg
+image: sunflowers.jpg
 ---
 
 ![.jpg](/content/.jpg)
