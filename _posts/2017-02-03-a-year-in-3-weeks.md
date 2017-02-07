@@ -43,7 +43,7 @@ No, to me, it really was a big deal. Maybe to some it is just another small acco
 
 **I cancelled my own bachelorette weekend.**
 
-![weekend.jpg](/content/weekend.jpg)
+![bachelorette.jpg](/content/bachelorette.jpg)
 
 
 One of my regrets of this season was my rash decision to cancel our bachelorette getaway weekend. I had planned an overnight at a bed and breakfast outside of Portland in Forest Park. Two out of three of my bridesmaids had even made plans to travel down 3 hours away from Seattle for the weekend trip, just 2 weeks before the wedding, when they would have to do the trip all over again. Literally the day they were traveling to my house I decided to cancel our reservation (the bed and breakfast allowed it, crazy enough) and just have them sleep on the couch in my apartment. Totally crazy and weird, but that was just one of the ways I was freaking out about the wedding. Sure, our saved money was running out and I wouldn’t even begin working until a week after the wedding, but still, it would have been totally fine to spend a bit for the memories. I still cannot believe that’s what I decided to do.
