@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2017-02-13T00:00:00.000Z
 tags: treat dessert chocolate paleo dairyfree glutenfree fairtrade
-image: 
+image: IMG_4777.JPG
 ---
 
 In celebration of V-day tomorrow, here are my favorite clean chocolate brands, all fair trade, and in no particular order.
