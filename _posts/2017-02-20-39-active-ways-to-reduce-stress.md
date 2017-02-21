@@ -3,12 +3,14 @@ published: true
 layout: post
 date: 2017-02-20T00:00:00.000Z
 tags: health healthcoaching lifecoaching life stress stressmanagement lifestyle coaching food diet nutrition corporatewellness chekcoach chekinstitute goals
-image: 
+image: dolly sods.JPG
 ---
 
 Ironically, I made this list in an effort to reduce my own stress. Just the act of writing down and focusing on all of the things I can actively be doing to pursue a lower-stress life made an amazing improvement on my stress level! I highly encourage everyone to not only read through and act upon this list, but try writing your own, too.
 
 This list is of course not in any way comprehensive, but is a good way to start figuring out what active ways you can work on reducing your stress and start living a happier, rested, and more carefree life. 
+
+![dolly sods.JPG](/content/dolly sods.jpg)
 
 <br>
 
