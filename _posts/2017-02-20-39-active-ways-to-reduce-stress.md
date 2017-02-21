@@ -10,7 +10,7 @@ Ironically, I made this list in an effort to reduce my own stress. Just the act 
 
 This list is of course not in any way comprehensive, but is a good way to start figuring out what active ways you can work on reducing your stress and start living a happier, rested, and more carefree life. 
 
-![dolly sods.JPG](/content/dolly sods.jpg)
+![dolly sods.JPG](/content/dolly sods.JPG)
 
 <br>
 
