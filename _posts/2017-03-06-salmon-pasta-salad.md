@@ -23,9 +23,9 @@ This pasta recipe is a meal you can feel good about, since it uses rice pasta (b
 
 *Directions:*
 
-1. For brown rice pasta, add __ cups of water in a medium saucepan and bring to a boil. For white rice pasta, add __ cups of water in a medium saucepan and bring to a boil.
+1. Fill approximately a medium saucepan and bring to a boil. 
 
-2. Once water is boiling, add rice pasta and cook until al dente (~__ minutes for brown rice pasta and ~__minutes for white rice pasta).
+2. Once water is boiling, add rice pasta and cook until al dente (~10 minutes for brown rice pasta and ~8 minutes for white rice pasta).
 
 3. Boil 1 cup of water and add the peas. Cook peas for about 5 minutes, or until soft and warmed through. 
 
