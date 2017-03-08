@@ -7,7 +7,7 @@ image: IMG_4900.JPG
 ---
 
 
-![IMG_4904.JPG](/content/IMG_4904.JPG)
+![IMG_4900.JPG](/content/IMG_4900.JPG)
 
 This pasta recipe is a meal you can feel good about, since it uses rice pasta (brown or white are both great options) and omega-3 rich salmon. It is dairy free, gluten free, and makes for a perfect portable lunch for the workday. I take this to work at least once a month and I'm sure you will too now once you try it!
 
