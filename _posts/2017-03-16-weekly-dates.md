@@ -22,7 +22,7 @@ Instigating this practice has been SO helpful in our marriage and communication.
 
 Now I am starting to record these in hopes that it will be an inspiration to those who want to be more intentional in their relationships - remember this does not have to be just for couples, but can be a great rule for close friends and family members. If you have any ideas for fun date nights and friend-date nights, please comment below!
 
-For our first date that I am recording, we spent a cold night inside at a low-profile museum. It’s called [The Frick], and it is a small campus of buildings donated from a wealthy art collector from Pittsburgh. 
+For our first date that I am recording, we spent a cold night inside at a low-profile museum. It’s called [The Frick](http://www.thefrickpittsburgh.org), and it is a small campus of buildings donated from a wealthy art collector from Pittsburgh. 
 
 It includes a gorgeous art museum:
 
