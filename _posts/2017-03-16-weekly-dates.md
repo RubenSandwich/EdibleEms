@@ -26,13 +26,13 @@ For our first date that I am recording, we spent a cold night inside at a low-pr
 
 It includes a gorgeous art museum:
 
-![IMG_4900-3.JPG](/content/IMG_4900-3.JPG)
+![IMG_4919.JPG](/content/IMG_4919.JPG)
 
-![IMG_4900-3.JPG](/content/IMG_4900-3.JPG)
+![IMG_4928.JPG](/content/IMG_4928.JPG)
 
 An old car museum:
 
-![IMG_4900-3.JPG](/content/IMG_4900-3.JPG)
+![IMG_4926.JPG](/content/IMG_4926.JPG)
 
 
 And even a place to get tea! We unfortunately went in the evening when the tea shop was closed so we will have to come back for a future date. 
@@ -40,13 +40,13 @@ And even a place to get tea! We unfortunately went in the evening when the tea s
 
 I asked Ruben to get a picture of me in my favorite room and this is what I got:
 
-![IMG_4900-3.JPG](/content/IMG_4900-3.JPG)
+![IMG_4916.JPG](/content/IMG_4916.JPG)
 
 Let’s just say he’s not really a picture person.
 
 Oh and a bookstore! Saw this book and it cracked me up, especially since we went there on a date ;)
 
-![IMG_4900-3.JPG](/content/IMG_4900-3.JPG)
+![IMG_4923.JPG](/content/IMG_4923.JPG)
 
 
 So that was our first date that I am recording and hopefully there will be many more to come! Give me all your suggestions for more dates!
