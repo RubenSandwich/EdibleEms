@@ -46,7 +46,7 @@ Let’s just say he’s not really a picture person.
 
 Oh and a bookstore! Saw this book and it cracked me up, especially since we went there on a date ;)
 
-![IMG_4923.JPG](/content/IMG_4923.JPG)
+![IMG_4923-1.JPG](/content/IMG_4923-1.JPG)
 
 
 So that was our first date that I am recording and hopefully there will be many more to come! Give me all your suggestions for more dates!
