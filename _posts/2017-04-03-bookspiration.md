@@ -3,12 +3,14 @@ published: true
 layout: post
 date: 2017-04-03T00:00:00.000Z
 tags: books reading life lifestyle rest 
-image: IMG_4900.JPG
+image: IMG_3571.JPG
 ---
 
 
-![IMG_4900-3.JPG](/content/IMG_4900-3.JPG)
+![IMG_3571.JPG](/content/IMG_3571.JPG)
 
+
+<br>
 
 Immediately after college, I became very deficient in reading. I realized that all throughout college I was either doing required reading or just spent too many hours crunched over a textbook of some kind and took a hiatus, unintentionally, from reading. I realized about a year ago that it has been too long since I’ve read anything fun, insightful, inspiring, or… well since I’ve read anything at all! 
 
