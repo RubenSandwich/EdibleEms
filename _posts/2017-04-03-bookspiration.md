@@ -20,7 +20,7 @@ But something has happened in the past few months that has got me reading more t
 
 The change was this: less time on social media. 
 
-The trick? Use social media to become inspired about reading. 
+**The trick? Use social media to become inspired about reading.**
 
 I discovered that there are so many great Instagram accounts that either show book suggestions or just beautiful pictures of cozy reading settings and other people getting excited about reading. It has helped so much as I have been scrolling through my IG feed and then suddenly coming across an image that speaks to me enough to make me stop, put my phone down, and take my book out instead. 
 
@@ -28,19 +28,19 @@ The benefits of this have not only been more reading, but better sleep, decrease
 
 The accounts I follow currently include:
 
-•	@bibliofeed
+*	[@bibliofeed](https://www.instagram.com/bibliofeed/)
 
-•	@bookbaristas
+*	[@bookbaristas](https://www.instagram.com/bookbaristas/)
 
-* @sweptawaybooks
+* [@sweptawaybooks](https://www.instagram.com/sweptawaybybooks/)
 
-* @tender.curiosity
+* [@tender.curiosity](https://www.instagram.com/tender.curiosity/)
 
-* @bookofthemonthclub
+* [@bookofthemonthclub](https://www.instagram.com/bookofthemonthclub/)
 
-* @emmawatson
+* [@emmawatson](https://www.instagram.com/emmawatson/)
 
-* @what.i.read
+* [@what.i.read](https://www.instagram.com/what.i.read/)
 
 
 How about you, any inspiring (book or other related) accounts that you follow anywhere on social media?
