@@ -1,4 +1,10 @@
-
+---
+published: true
+layout: post
+date: 2017-04-10T00:00:00.000Z
+tags: life travel vacation healthytravel onthego nocook airportfood portable lunch dinner snacks familyvacation
+image: DSC01736.JPG
+---
 
 My main takeaway from this past family vacation in Northern Arizona (vlog to follow): Cook dinners. You are there for at most a week, typically. So go out half the time and cook some meals at home.
 
