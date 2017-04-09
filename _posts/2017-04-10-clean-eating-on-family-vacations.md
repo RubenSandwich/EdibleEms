@@ -8,6 +8,10 @@ image: DSC01736.JPG
 
 My main takeaway from this past family vacation in Northern Arizona (vlog to follow): Cook dinners. You are there for at most a week, typically. So go out half the time and cook some meals at home.
 
+![DSC01598.JPG](/content/DSC01598.JPG)
+
+*Ruben and I cooking dinner at our family's shared rental house.*
+
 <br>
 
 **Special Occasions**
