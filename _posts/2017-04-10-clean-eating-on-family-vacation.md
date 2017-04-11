@@ -6,7 +6,11 @@ tags: life travel vacation healthytravel onthego nocook airportfood portable lun
 image: DSC01736.JPG
 ---
 
-My main takeaway from this past family vacation last week in Northern Arizona (Vlog to follow): Cook dinners. You are there for at most a week, typically. So go out half the time and cook some meals at your apartment, hotel, condo, etc. You can buy small sizes of olive oil and just enough ingredients for the meals you make. It's easy, saves money, and is way healthier!
+My main takeaway from this past family vacation last week in Northern Arizona (Vlog to follow): 
+
+**Cook dinners.** 
+
+You are there for at most a week, typically. So go out half the time and cook some meals at your apartment, hotel, condo, etc. You can buy small sizes of olive oil and just enough ingredients for the meals you make. It's easy, saves money, and is way healthier!
 
 ![DSC01598.JPG](/content/DSC01598.JPG)
 
