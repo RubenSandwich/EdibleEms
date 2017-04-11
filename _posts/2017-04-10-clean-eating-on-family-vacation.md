@@ -22,9 +22,9 @@ You are there for at most a week, typically. So go out half the time and cook so
 
 The week we were all free happened to be my mom’s birthday week, so on Tuesday night we had to of course have cake! I’m not a great baker to begin with and I find it particularly stressful while I’m not at home with all my kitchen tools. So, I found this amazing cake mix at Whole Foods and everyone LOVED it. I couldn’t believe how great it tasted and how good I felt after eating it. No sugar high or crazy cravings after the typical birthday cake. It’s made of almond and coconut flour, as well as coconut sugar, so it is higher protein and lower carb and sugar. 
 
-![IMG_5321-2.JPG](/content/IMG_5321-2.JPG)
+![IMG_5321-2.jpg](/content/IMG_5321-2.jpg)
 
-![IMG_5322-2.JPG](/content/IMG_5322-2.JPG)
+![IMG_5322-2.jpg](/content/IMG_5322-2.jpg)
 
 **Dinners**
 
