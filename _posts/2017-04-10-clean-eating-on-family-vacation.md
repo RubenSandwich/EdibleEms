@@ -33,7 +33,7 @@ I made Thai peanut chicken and people loved it. All you need to do is grab some 
 
 **Breakfasts**
 
-I also made fresh fried eggs every morning, which takes barely any time at all. To go with this, I sautéed brussel sprouts and fried up potatoes that I baked the day after we arrived.
+I also made fresh fried eggs every morning, which takes barely any time at all. To go with this, I sautéed brussel sprouts and fried up potatoes fresh each morning that I baked in bulk the day after we arrived.
 
 **Lunches**
 
