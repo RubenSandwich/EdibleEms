@@ -37,7 +37,8 @@ I also made fresh fried eggs every morning, which takes barely any time at all. 
 
 **Lunches**
 
-Lunch typically consisted either of leftovers, my favorite [picnic spread](), a few cafes, and an easy tuna salad. When I wanted to make a real hearty meal, I made turkey burgers with a cream of asparagus soup (using the leftover asparagus from dinner the night before). Stick with basic foods everyone loves and don’t make it too complicated when you’re busy sight-seeing. ☺
+Lunch typically consisted either of leftovers, a picnic (salami and/or smoked salmon, hard goat cheeses, cucumber, apple slices, carrots, grapes, and some good sugar free coconut water), a few cafes, and an easy tuna salad. When I wanted to make a real hearty meal, I made turkey burgers with a cream of asparagus soup (using the leftover asparagus from dinner the night before). Stick with basic foods everyone loves and don’t make it too complicated when you’re busy sight-seeing. ☺
+
 
 **People Will Help You**
 
