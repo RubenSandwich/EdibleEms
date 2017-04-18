@@ -23,6 +23,7 @@ The lake, though, was nice. We both agreed we’d love to see it in the summer o
 
 The point was to spend time with each other and without Wi-Fi or people anywhere close, we certainly had an easier time doing this. The concept is something I highly suggest and will be sure to repeat in my own life!
 
+<br>
 
 **Reading Evening**
 
