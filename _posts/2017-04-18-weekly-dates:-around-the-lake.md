@@ -13,7 +13,7 @@ image: IMG_5022.JPG
 
 ![IMG_5025.JPG](/content/IMG_5025.JPG)
 
-We had been craving some nature time in addition to some alone time, so this year for Ruben’s birthday I took him to Lake Stoneycreek???, a short drive away from Pittsburgh. 
+We had been craving some nature time in addition to some alone time, so this year for Ruben’s birthday I took him to Lake Stoneycreek, a short drive away from Pittsburgh. 
 
 The best part of this weekend was that I kept it a surprise from Ruben until we were about an hour away on the drive there! 
 
