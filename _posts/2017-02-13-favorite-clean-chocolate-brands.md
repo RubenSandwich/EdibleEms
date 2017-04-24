@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: 2017-02-13T00:00:00.000Z
-tags: treat dessert chocolate paleo dairyfree glutenfree fairtrade
+tags: treat dessert chocolate paleo dairyfree glutenfree fairtrade snacks
 image: IMG_4777.jpg
 ---
 
