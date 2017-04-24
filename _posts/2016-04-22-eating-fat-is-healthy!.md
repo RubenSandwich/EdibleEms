@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2016-04-22T00:00:00.000Z
 tags: treat dessert chocolate paleo dairyfree glutenfree fairtrade snacks
-image: 
+image: eating_fat_is_healthy.jpg
 ---
 
 ![eating_fat_is_healthy.jpg](/content/eating_fat_is_healthy.jpg)
