@@ -5,6 +5,7 @@ date: 2016-05-21T00:00:00.000Z
 tags: bookreview books nutrition learning paleo
 image: ETY.jpg
 ---
+
 The book [Eat the Yolks](https://www.amazon.com/gp/product/1628600195?ie=UTF8&tag=edib09-20&camp=1789&linkCode=xm2&creativeASIN=1628600195), by Liz Wolfe, has completely and forever changed the way I view food (and really a lot of other things too). No matter what your nutrition dogma or food preferences are, this book will speak to you and make you think about health from a holistic and logical perspective.
 
 
