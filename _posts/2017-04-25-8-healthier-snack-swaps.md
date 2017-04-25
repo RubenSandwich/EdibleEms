@@ -6,6 +6,9 @@ tags: treat paleo dairyfree glutenfree cleaneating snacks glutenfree grainfree s
 image: Carrots.jpg
 ---
 
+![Carrots.jpg](/content/Carrots.jpg)
+
+<br>
 
 **To Snack Or Not To Snack**
 
