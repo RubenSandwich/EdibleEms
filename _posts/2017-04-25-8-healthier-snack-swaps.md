@@ -13,7 +13,7 @@ image: Carrots.jpg
 **To Snack Or Not To Snack**
 
 
-No matter whether you decide to snack or not, always have full meals first. Incorporate [healthy fats](http://edibleem.com/eating-fat-is-healthy!), [natural sources of carbohydrates](http://balancedbites.com/paleo-diet-carbs/), and [clean proteins]http://balancedbites.com/content/protein-basics/) with every meal, at least 2-3 times per day. 
+No matter whether you decide to snack or not, always have full meals first. Incorporate [healthy fats](http://edibleem.com/eating-fat-is-healthy!), [natural sources of carbohydrates](http://balancedbites.com/paleo-diet-carbs/), and [clean proteins](http://balancedbites.com/content/protein-basics/) with every meal, at least 2-3 times per day. 
 
 <br>
 
