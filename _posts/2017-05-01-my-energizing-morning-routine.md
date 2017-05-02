@@ -19,9 +19,9 @@ As you will see in this video, each of my mornings is mainly spent caring for my
 
 Here are the activities that fill my mornings each day before work:
 
-* Lay in bed for 1-2 minutes with a timer, breathing and petting my dog while slowly adjusting to wakefulness. VIDEO
+* Lay in bed for 1-2 minutes with a timer, breathing and petting my dog while slowly adjusting to wakefulness. 
 
-* Brush my teeth w/baking soda. VIDEO 
+* Brush my teeth w/baking soda.
 
 * Change into comfortable walking clothes. 
 
@@ -41,7 +41,6 @@ Here are the activities that fill my mornings each day before work:
 
   * Typical meal includes 2 eggs, a bit of additional protein (usually a few bites of sausage or smoked salmon), sauerkraut (or sauteed greens if I have more time), and additional fat from coconut milk that I put in my rooibos tea, homemade turmeric milk, or mate. If not having a homemade tea latte, I will typically add ½ a sweet potato or other starchy carb to this meal. I don’t leave much time for breakfast in the morning due to wanting extra sleep (!!), so if I don’t have time to do this I try to have blended up beets watered down w/a bit of water and lemon juice to drink at work, which will tide me over until lunch. 
   
-  VIDEO of AUDIOBOOK
   
 * “Me time” continues while on the drive to work: I love to listen to an audiobook. Right now I’m enjoying William Faulkner’s *The Light in August.*
 
