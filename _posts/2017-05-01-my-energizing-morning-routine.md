@@ -1,9 +1,19 @@
+---
+published: true
+layout: post
+date: 2017-05-01T00:00:00.000Z
+tags: life routines morningroutine lifestyle health priorities 
+image: FullSizeRender-3.jpg
+---
 
 
+![FullSizeRender-3.jpg](/content/FullSizeRender-3.jpg)
+
+<br>
 
 As you will see in this video, each of my mornings is mainly spent caring for my pets, but really it is more them caring for me. My morning routine is a perfect mix of relaxation, light exercise, and healthful habits that make a positive start to my day, every day. 
 
-[video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/btzs63gDQ3Y" frameborder="0" allowfullscreen></iframe>
 
 <a href="//www.pinterest.com/pin/create/button/" 
 data-pin-do="buttonBookmark"  
