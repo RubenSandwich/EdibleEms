@@ -16,7 +16,7 @@ The last two weeks also consisted of pretty simple dates.
 
 First, we took our Tuesday evening to visit a coffee shop together. This particular week we wanted some quiet time to talk and sometimes it is just necessary to get out of the house. We went to [Espresso a Mano](https://espressoamano.com/), one of our regular places here in Pittsburgh. Their tea blends always sound great to me. This time Ruben got a tea called Dao Lemon, which with the font on the menu looked like “Dad Lemon.” When he asked for “Dad Lemon Tea” the barista gave us the most hilarious look! 
 
-![spring fall.jpg](/content/spring fall.jpg)
+![fallencherryblossoms.jpg](/content/fallencherryblossoms.jpg)
 
 *Spring has fallen*
 
