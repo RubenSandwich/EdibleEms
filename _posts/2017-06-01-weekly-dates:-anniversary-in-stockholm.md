@@ -18,8 +18,10 @@ To eat, we got some fresh sourdough bread, brie as a treat (no we cannot eat dai
 
 ![IMG_6048.JPG](/content/IMG_6048.JPG)
 
-![IMG_6044.JPG](/content/IMG_6044.JPG
+![IMG_6044.JPG](/content/IMG_6044.JPG)
 
-Vlog to follow!
+<br>
+
+**Vlog to follow!**
 
 
