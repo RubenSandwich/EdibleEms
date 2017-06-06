@@ -12,3 +12,7 @@ As promised, a vlog of our anniversary trip to Sweden in lieu of making you guys
 
 
 <iframe width="100%" height="100%" src="https://drive.google.com/file/d/0B5DzH93KVIdhOTRPVVFweGJNdmc/preview"></iframe>
+
+<br>
+
+*Song is Emmylou, by First Aid Kit (a Swedish band!)*
