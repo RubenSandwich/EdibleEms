@@ -9,6 +9,8 @@ image: IMG_5985.JPG
 
 During the past week on my trip to Stockholm, I wasn't actually that worried about food quality. The food in Sweden is way healthier than in the U.S. in general, and I was able to eat out a lot more than I usually do without feeling sick at all. However, as a general rule I try to limit my eating out either way as I tend to overeat when I do. Plus, a week of eating out for every meal would really add up and get expensive, so having even a couple of meals in my hotel room (or outside for a picnic!) saved a ton of money. 
 
+![IMG_6327.JPG](/content/IMG_6327.JPG)
+
 <br>
 
 **The One Fail**
@@ -90,7 +92,7 @@ These are the snacks I mainly focused on during our springtime [visit to Stockho
 
 ![IMG_5680.JPG](/content/IMG_5680.JPG)
 
-![IMG_6327.JPG](/content/IMG_6327.JPG)
+
 
 <br>
 
