@@ -22,9 +22,11 @@ I always like to experiment with differnet ways to eat healthy while traveling, 
 
 **Picnics**
 
-1. We had one picnic for dinner this week. It was on our anniversary, actually. Since the food quality is better in Europe, I decided to try some brie, sourdough bread (which is technically fermented which makes it naturally gluten free!), and bites of salami, grapes, and cherry tomatoes. It was so refreshing and I had no issues with the dairy or the bread! It was wonderful and much more serene then going to a restaurant. The view was pretty great, too. :)
+We had one picnic for dinner this week. It was on our anniversary, actually. Since the food quality is better in Europe, I decided to try some brie, sourdough bread (which is technically fermented which makes it naturally gluten free!), and bites of salami, grapes, and cherry tomatoes. It was so refreshing and I had no issues with the dairy or the bread! It was wonderful and much more serene then going to a restaurant. The view was pretty great, too. :)
 
-![IMG_6046-2.JPGcontent/IMG_6046-2.JPG)
+
+
+![IMG_6046-2.JPG](/content/IMG_6046-2.JPG)
 
 
 
@@ -88,13 +90,15 @@ These are the snacks I mainly focused on during our springtime [visit to Stockho
 
 ![IMG_5680.JPG](/content/IMG_5680.JPG)
 
-![IMG_6326.JPG](/content/IMG_6326.JPG)
+![IMG_6327.JPG](/content/IMG_6327.JPG)
 
 <br>
 
-**And found the cutest places!*
+**And found the cutest places!**
 
-![IMG_6327.JPG](/content/IMG_6327.JPG)
+![IMG_6326.JPG](/content/IMG_6326.JPG)
+
+
 
 ![IMG_6332.JPG](/content/IMG_6332.JPG)
 
