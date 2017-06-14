@@ -27,13 +27,12 @@ I always like to experiment with differnet ways to eat healthy while traveling, 
 We had one picnic for dinner this week. It was on our anniversary, actually. Since the food quality is better in Europe, I decided to try some brie, sourdough bread (which is technically fermented which makes it naturally gluten free!), and bites of salami, grapes, and cherry tomatoes. It was so refreshing and I had no issues with the dairy or the bread! It was wonderful and much more serene then going to a restaurant. The view was pretty great, too. :)
 
 
-
-![IMG_6046-2.jpg](/content/IMG_6046-2.jpg)
+![IMG_6046-2.JPG](/content/IMG_6046-2.JPG)
 
 Neither of us had any digestive issues from the bread or cheese and felt great afterward! And we just got the picnic supplies at a grocery store! The food quality there is seriously the best guys...
 
 
-![IMG_6048-2.jpg](/content/IMG_6048-2.jpg)
+![IMG_6048-2.JPG](/content/IMG_6048-2.JPG)
 
 *Even included a dessert cake slice that we picked up at a local bakery! Not healthy, but your anniversary only comes once a year. :)*
 
