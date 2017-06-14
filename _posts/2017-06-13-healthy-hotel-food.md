@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2017-06-12T00:00:00.000Z
+date: 2017-06-13T00:00:00.000Z
 tags: healthytravel nutritiononthego travel work career 
 image: IMG_5985.JPG
 ---
@@ -11,21 +11,37 @@ During the past week on my trip to Stockholm, I wasn't actually that worried abo
 
 <br>
 
+**The One Fail**
+
+I always like to experiment with differnet ways to eat healthy while traveling, and this time I got even more gutsy and tried to hard boil eggs in the hotel room by placing them in a cup and pouring boiling water from the hot watr heater over them. I thought it would be like hard boiling (or even just soft-boiling!) an egg, but it did NOT work that way. I wish I would have gotten a picture but no matter how many times I refilled the cup with boiling water, the eggs did NOT cook. I opened them and got egg all over the garbage can that I had (luckily!) placed underneath it. Wah-wah. :(
+
+![FullSizeRender-14.jpg](/content/FullSizeRender-14.jpg)
+
+
+<br>
+
 **Picnics**
 
 1. We had one picnic for dinner this week. It was on our anniversary, actually. Since the food quality is better in Europe, I decided to try some brie, sourdough bread (which is technically fermented which makes it naturally gluten free!), and bites of salami, grapes, and cherry tomatoes. It was so refreshing and I had no issues with the dairy or the bread! It was wonderful and much more serene then going to a restaurant. The view was pretty great, too. :)
 
-![FullSizeRender-13.jpg](/content/FullSizeRender-13.jpg)
+![IMG_6046-2.JPGcontent/IMG_6046-2.JPG)
+
+
+
+![IMG_6048-2.JPG](/content/IMG_6048-2.JPG)
+
+*Even included a dessert cake slice that we picked up at a local bakery! Not healthy, but your anniversary only comes once a year. :)*
 
 <br>
 
 **Snacks:**
 
-1. Grapes, apples, bananas, other fruit. 
+These are the snacks I mainly focused on during our springtime [visit to Stockholm](http://edibleem.com/sweden-vlog). 
+
+1. Grapes, apples, bananas, other fruit. Obvious, but always a great option. 
 
 2. Granola bars - easy to bring, easy to pick up after you arrive.
 
-![FullSizeRender-13.jpg](/content/FullSizeRender-13.jpg)
 
 <br>
 
@@ -37,7 +53,7 @@ During the past week on my trip to Stockholm, I wasn't actually that worried abo
 
 3. Grape tomatoes
 
-![FullSizeRender-13.jpg](/content/FullSizeRender-13.jpg)
+![IMG_5824.JPG](/content/IMG_5824.JPG)
 
 <br>
 
@@ -49,7 +65,7 @@ During the past week on my trip to Stockholm, I wasn't actually that worried abo
 
 3. Peanut/almond/sunflower seed butter - great on it's own or on celery, apples, slices of Ezekiel bread, etc. 
 
-![FullSizeRender-13.jpg](/content/FullSizeRender-13.jpg)
+![IMG_5825.JPG](/content/IMG_5825.JPG)
 
 <br>
 
@@ -59,16 +75,26 @@ During the past week on my trip to Stockholm, I wasn't actually that worried abo
 
 2. Salt. Get some quality mineral-rich salt to put on your veggies. That way you are motivated to eat your veggies a bit more! ;) My salt here is also a souvenier because this is something that's way harder to find in the states. 
 
-![FullSizeRender-13.jpg](/content/FullSizeRender-13.jpg)
+![IMG_5816.JPG](/content/IMG_5816.JPG)
+
+![IMG_5817.JPG](/content/IMG_5817.JPG)
 
 <br>
 
 **When we did go out though, we went all out!**
 
 
-![IMG_6327 1.JPG](/content/IMG_6327 1.JPG)
+![FullSizeRender-15.jpg](/content/FullSizeRender-15.jpg)
 
-![IMG_6331.JPG](/content/IMG_6331.JPG)
+![IMG_5680.JPG](/content/IMG_5680.JPG)
+
+![IMG_6326.JPG](/content/IMG_6326.JPG)
+
+<br>
+
+**And found the cutest places!*
+
+![IMG_6327.JPG](/content/IMG_6327.JPG)
 
 ![IMG_6332.JPG](/content/IMG_6332.JPG)
 
