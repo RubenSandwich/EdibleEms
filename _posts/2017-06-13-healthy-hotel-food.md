@@ -30,6 +30,7 @@ We had one picnic for dinner this week. It was on our anniversary, actually. Sin
 
 ![IMG_6046-2.JPG](/content/IMG_6046-2.JPG)
 
+Neither of us had any digestive issues from the bread or cheese and felt great afterward! And we just got the picnic supplies at a grocery store! The food quality there is seriously the best guys...
 
 
 ![IMG_6048-2.JPG](/content/IMG_6048-2.JPG)
@@ -57,7 +58,7 @@ These are the snacks I mainly focused on during our springtime [visit to Stockho
 
 3. Grape tomatoes
 
-![IMG_5824.JPG](/content/IMG_5824.JPG)
+![IMG_5824-2.JPG](/content/IMG_5824-2.JPG)
 
 <br>
 
@@ -69,7 +70,7 @@ These are the snacks I mainly focused on during our springtime [visit to Stockho
 
 3. Peanut/almond/sunflower seed butter - great on it's own or on celery, apples, slices of Ezekiel bread, etc. 
 
-![IMG_5825.JPG](/content/IMG_5825.JPG)
+![IMG_5825-2.JPG](/content/IMG_5825-2.JPG)
 
 <br>
 
@@ -79,9 +80,9 @@ These are the snacks I mainly focused on during our springtime [visit to Stockho
 
 2. Salt. Get some quality mineral-rich salt to put on your veggies. That way you are motivated to eat your veggies a bit more! ;) My salt here is also a souvenier because this is something that's way harder to find in the states. 
 
-![IMG_5816.JPG](/content/IMG_5816.JPG)
+![IMG_5816-2.JPG](/content/IMG_5816-2.JPG)
 
-![IMG_5817.JPG](/content/IMG_5817.JPG)
+![IMG_5817-2.JPG](/content/IMG_5817-2.JPG)
 
 <br>
 
@@ -90,7 +91,7 @@ These are the snacks I mainly focused on during our springtime [visit to Stockho
 
 ![FullSizeRender-15.jpg](/content/FullSizeRender-15.jpg)
 
-![IMG_5680.JPG](/content/IMG_5680.JPG)
+![IMG_5680-2.JPG](/content/IMG_5680-2.JPG)
 
 
 
