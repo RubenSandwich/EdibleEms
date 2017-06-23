@@ -18,10 +18,10 @@ Highlights for us were: seeing Amish people for the first time (and wow do their
 
 ![IMG_6434.JPG](/content/IMG_6434.JPG)
 
-![IMG_6437.JPG](/content/IMG_6437.JPG)
+![IMG_6437-2.JPG](/content/IMG_6437-2.JPG)
 
 *View from the winery*
 
-![IMG_6444.JPG](/content/IMG_6444.JPG)
+![IMG_6444-2.JPG](/content/IMG_6444-2.JPG)
 
 ![IMG_6431.JPG](/content/IMG_6431.JPG)
