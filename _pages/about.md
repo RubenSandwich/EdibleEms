@@ -1,7 +1,7 @@
 
 I'm in no way a professional cook, baker, or photographer in any way, but is simply passionate about health and can't stop talking about food! This site is a tool for her to share what she is learning as well as tips and tricks for making healthy living a part of one's lifestyle.
 
-![Wedding_Top_Picks 84.jpg](/content/Wedding_Top_Picks 84.jpg)
+![Wedding_Top_Picks 84.JPG](/content/Wedding_Top_Picks 84.JPG)
 
 
 Recently, Em became certified as a CHEK Holistic Lifestyle Coach through the [CHEK Institute](http://chekinstitute.com) and has started one-on-one coaching and teaching classes/workshops. If you are interested in learning more about holistic health and how it can help heal your mind and body, contact Em at <emily@edibleem.com>.
