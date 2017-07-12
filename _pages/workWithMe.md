@@ -1,5 +1,7 @@
 The topics which Em is most passionate about include health, nutrition, fitness, and helping people! All of these services that she offers blend her interests in a way that is sure to be beneficial for whoever receives them. Contact her at <emily@edibleem.com> for any questions or to book an appointment today.
 
+![pic-with-logo.jpg](/content/pic-with-logo.jpg)
+
 __Disclaimer: None of these challenges, classes, or plans are intended to treat any medical problem. You should always consult your doctor before significantly changing your diet or exercise plans.__
 
 ##### One-on-One Coaching
