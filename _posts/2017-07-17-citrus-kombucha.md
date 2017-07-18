@@ -19,9 +19,9 @@ image: IMG_6662-2.jpg
 <br>
 
 
-I never really wanted to brew my own kombucha, as I was always scared of it after I learned that it involves feeding a bacterial organism called a SCOBY (symbiotic colony of bacteria and yeast). Google it and tell me if the pictures don’t freak you out! But, after several years of $3 bottles and even the “cheaper” option of paying to stock up my growler at Townshends, my wallet was hurting. 
+I never really wanted to brew my own kombucha, as I was always scared of it after I learned that it involves feeding a bacterial organism called a SCOBY (symbiotic colony of bacteria and yeast). Google it and tell me if the pictures don’t freak you out! But, after several years of $3 bottles and even the “cheaper” option of paying to stock up my growler, my wallet was hurting. 
 
-So one day Ruben and I spontaneously picked up a SCOBY at Powells on Hawthorne (only in Portland would a book store sell SCOBYs...). I had always heard it was easy to brew, but never believed it until I started. It really was as easy as everybody says. The process is as simple as:
+So one day a couple of years ago Ruben and I spontaneously picked up a SCOBY at Powells on Hawthorne (only in Portland would a book store sell SCOBYs...). I had always heard it was easy to brew, but never believed it until I started. It really was as easy as everybody says. The process is as simple as:
 
 1.	Brewing tea
 2.	Adding sugar
