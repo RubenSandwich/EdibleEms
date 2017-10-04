@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2017-10-03T00:00:00.000Z
 tags: health healthcoaching lifecoaching naturalmovement life stress stressmanagement lifestyle coaching food exercise diet nutrition chekcoach chekinstitute goals
-image: 
+image: IMG_7022.JPG
 ---
 
 Ok I'll be up front here by saying that this list is completely subjective. Meaning it is just my opinion and experience on what exercises I've found the most helpful for reduing stress in my life. 
