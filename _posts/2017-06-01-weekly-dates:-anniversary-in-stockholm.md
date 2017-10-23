@@ -6,7 +6,7 @@ tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyl
 image: FullSizeRender-12.jpg
 ---
  
-We were so lucky to be able to have the most epic date this past week (or really a week full of epic dates). R's work sent him to Sweden so I (obviously) decided to tag along. 
+We were so lucky to be able to have the most epic date this past week (or really a week full of epic dates). R's work sent him to [Sweden](http://edibleem.com/sweden-vlog) so I (obviously) decided to tag along. 
 
 Although it was mainly for work, we got to have a few great opportunities to sightsee. On our anniversary, we decided to forgo going out to eat and to instead have a quiet picnic at a viewpoint overlooking Stockholm at sunset. This place was known to have the best views of the city and I can tell you that although that didn't show up from the pictures, that was definitely true!
 
@@ -22,6 +22,6 @@ To eat, we got some fresh sourdough bread, brie as a treat (no we cannot eat dai
 
 <br>
 
-**Vlog to follow!**
+**See my vlog [here](http://edibleem.com/sweden-vlog)!**
 
 
