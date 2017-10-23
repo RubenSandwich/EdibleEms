@@ -6,7 +6,7 @@ tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyl
 image: IMG_6205.JPG
 ---
 
-As promised, a vlog of our anniversary trip to Sweden in lieu of making you guys scroll through a bunch of pictures of someone else's vacation. This is much more fun. :)
+As promised, a vlog of [our anniversary trip to Sweden](http://edibleem.com/weekly-dates-anniversary-in-stockholm) in lieu of making you guys scroll through a bunch of pictures of someone else's vacation. This is much more fun. :)
 
 <br>
 
