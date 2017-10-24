@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2017-10-23T00:00:00.000Z
+date: 2017-10-24T00:00:00.000Z
 tags: life love relationships ruben&emily emily&ruben ourstory marriage lifestyle engagement family wedding dates weeklydates travel healthytravel
 image: IMG_5653.JPG
 ---
@@ -15,13 +15,13 @@ I learned a lot about health as a lifestyle while I was there. Here are just a f
 
 * Vitamin D can be easily soaked up in small doses.
 
-![IMG_6052.JPG](/content/IMG_6052.JPG)
+![IMG_6052.jpg](/content/IMG_6052.jpg)
 
 * Biking as a form of transportation can be for everyone who is able to ride a bike – no need to purchase spandex and move quicker than cars do to be a “real biker.” 
 
 * Biking on cobblestone streets is much more of a workout than biking on a paved path. 
 
-![IMG_5786.JPG](/content/IMG_5786.JPG)
+![IMG_5786.jpg](/content/IMG_5786.jpg)
 
 * Social drinking is not the same thing as overconsumption at parties. Having multiple drinks is ok if you spread it out over hours while talking with friends. (When I went out we spent 6 hours together chatting quietly and walking to 2 different bars.)
 
