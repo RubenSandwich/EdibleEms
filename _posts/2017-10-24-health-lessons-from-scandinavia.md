@@ -27,7 +27,7 @@ I learned a lot about health as a lifestyle while I was there. Here are just a f
 
 * Walking to a destination should include a lot of wandering and detours. Bonus points if you can walk along a waterfront.
 
-[photo]
+![IMG_6250.jpg](/content/IMG_6250.jpg)
 
 * Portion sizes matter. So does quality of food. If you have to pay more to get less food, it is probably healthier and probably is actually the right amount for your body. 
 
@@ -36,10 +36,12 @@ I learned a lot about health as a lifestyle while I was there. Here are just a f
 ![IMG_6332.JPG](/content/IMG_6332.JPG)
 
 
-* Soak up all the sunshine you can get while it’s out. When it’s not available, hang out with people inside….. but don’t have self-pity and complain.
+* Soak up all the sunshine you can get while it’s out. When it’s not available, hang out with people inside….. but don’t have self-pity and complain. 
 
 * Learn new languages. It’s good for your brain and can help you meet new friends. (Most people there knew 2-4 different languages!)
 
-* Family time > Work time (People there are not afraid to take time off to spend time with their family. In the USA in is frowned upon.)
+* Family time > Work time 
 
-![IMG_6327.JPG](/content/IMG_6327.JPG)
+(People there are not afraid to take time off to spend time with their family. In the USA in is frowned upon.)
+
+![IMG_6251 copy.JPG](/content/IMG_6251 copy.JPG)
