@@ -27,7 +27,7 @@ I learned a lot about health as a lifestyle while I was there. Here are just a f
 
 * Walking to a destination should include a lot of wandering and detours. Bonus points if you can walk along a waterfront.
 
-![IMG_6250.jpg](/content/IMG_6250.jpg)
+![IMG_6250.JPG](/content/IMG_6250.JPG)
 
 * Portion sizes matter. So does quality of food. If you have to pay more to get less food, it is probably healthier and probably is actually the right amount for your body. 
 
