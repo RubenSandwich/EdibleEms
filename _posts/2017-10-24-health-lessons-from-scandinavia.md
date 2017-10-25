@@ -21,7 +21,7 @@ I learned a lot about health as a lifestyle while I was there. Here are just a f
 
 * Biking on cobblestone streets is much more of a workout than biking on a paved path. 
 
-![IMG_5787.JPG](/content/IMG_5787.JPG)
+![IMG_5786.jpg](/content/IMG_5786.jpg)
 
 * Social drinking is not the same thing as overconsumption at parties. Having multiple drinks is ok if you spread it out over hours while talking with friends. (When I went out we spent 6 hours together chatting quietly and walking to 2 different bars.)
 
