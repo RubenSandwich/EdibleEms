@@ -1,12 +1,14 @@
+---
+published: true
+layout: post
+date: 2015-10-30T00:00:00.000Z
+tags: life lifestyle travel healthytravel detox 21daysugardetox sugardetox nosugarnovember
+image: 21dsd.jpg
+---
+
 Today was the first day of my third **(yes, third!)** go around at [Diane Sanfilippo's 21-Day Sugar Detox](http://balancedbites.com/21dsd), I think it will be a great reset for me and I am especially excited because my husband is doing it with me! 
 
 
-
-![IMG_1956.JPG](/content/IMG_1956-JPG.jpg)
-
-
-
-*A big stack of pancakes for our last "Breakfast for Dinner" meal the night before the detox!*
 
 <br>
 
@@ -14,9 +16,7 @@ Today was the first day of my third **(yes, third!)** go around at [Diane Sanfil
 
 You can learn all about the program [here](www.21dsd.com) or through the book [here](http://www.amazon.com/21-Day-Sugar-Detox-Cravings-Naturally/dp/1936608111/ref=sr_1_1?ie=UTF8&qid=1446492202&sr=8-1&keywords=21+day+sugar+detox) or even from podcasts [here](http://balancedbites.com/podcast/) (I have the book, which is the guide I will be using to follow). Basically it is a **whole foods based** program that focuses on eating **foods from nature** and cutting out processed foods. It is also meant to change your tastes to be more sensitive to sweet foods, which is why even the fruits that are allowed are few and are more bitter-tasting (green apple, grapefruit, and green-tipped bananas are the only fruits allowed). I love this program because it does not feel restrictive, there is no calorie counting, it is safe, and focuses on feeling better rather than just losing weight!
 
-<br>
 
-![IMG_1936.JPG](/content/IMG_1936-JPG.jpg)
 
 <br>
 
@@ -41,7 +41,6 @@ Yesterday was our last meal before the detox. **Breakfast for Dinner** included 
 
 
 
-![IMG_1954.JPG](/content/IMG_1954-JPG.jpg)
 
 <br>
 
@@ -54,17 +53,4 @@ As encouragement for others as well as motivation for me to stay on track, I wil
 * Twitter: @EatWithEmily
 
 
-<a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" /></a>
-<!-- Please call pinit.js only once per page -->
-<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-63592106-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
