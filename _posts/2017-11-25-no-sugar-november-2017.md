@@ -71,4 +71,6 @@ Next time, I will have to remember that a very strict way of eating just does no
 
 <br>
 
-**How about you, have you done some kind of a detox/nutrition challenge? How did it go?** Leave a comment and let me know below. 
+**How about you, have you done some kind of a detox/nutrition challenge? How did it go?** 
+
+Leave a comment and let me know below. 
