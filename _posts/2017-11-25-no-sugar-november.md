@@ -49,7 +49,7 @@ I tried to eat lunch that I brought, which was lunch meat, smoked salmon, and av
 
 Not to mention when I got to my parents' house on Day 19 I found this situation:
 
-![IMG_7668.PNG](/content/IMG_7668.PNG)
+![IMG_7668-edited.PNG](/content/IMG_7668-edited.PNG)
 
 *How could I turn down homemade pumpkin scones at my mom's house?!*
 
