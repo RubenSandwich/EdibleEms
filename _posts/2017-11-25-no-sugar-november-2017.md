@@ -15,7 +15,7 @@ Between my work picking up throughout the summer and fall in addition to some pe
 It really just kind of crept in to my life without me noticing until months down the line. This detox was a great way for me to get my healthy lifestyle back in a non-pressure-y way. It's not actually that strict of a program and the book even has meal plans you can follow which made it way easier. 
 
 
-![IMG_6052.jpg](/content/IMG_6052.jpg)
+![IMG_7728.JPG](/content/IMG_7728.JPG)
 
 <br>
 
