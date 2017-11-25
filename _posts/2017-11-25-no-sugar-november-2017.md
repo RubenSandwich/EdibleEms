@@ -29,15 +29,13 @@ I had planned all along to go to [Tako](http://takopgh.com), one of Pittsburghâ€
 
 ![IMG_7724.jpg](/content/IMG_7724.jpg)
 
-*Tako, Pittsburgh, PA*
+*Picture taken in Tako, Pittsburgh, PA*
 
 <br>
 
 However, things did get a bit rocky toward the end of the detox. 
 
 On Day 18 of the detox, my husband and I spent the day preparing for our flight back to Oregon for the Thanksgiving holiday. I knew the last few days of the detox would be while traveling but thought for sure I could do it anyway! 
-
-![IMG_7655-2.JPG](/content/IMG_7655-2.JPG)
 
 Traveling ended up not even being the most difficult part, though.
 
