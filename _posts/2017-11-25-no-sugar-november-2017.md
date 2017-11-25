@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2017-11-25T00:00:00.000Z
 tags: life lifestyle travel healthytravel detox 21daysugardetox sugardetox nosugarnovember
-image: 
+image: IMG_7737.JPG
 ---
 
 **My Experience Doing a “No-Sugar November”**
