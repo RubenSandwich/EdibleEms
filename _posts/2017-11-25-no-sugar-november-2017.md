@@ -41,7 +41,7 @@ Traveling ended up not even being the most difficult part, though.
 
 We were running around like crazy trying to get Christmas gifts for family, all of which happened to be local food gifts from Pittsburgh. Now the sugar wasn’t actually the hard part for me compared to the salty snacks – so when we walked into the [Pittsburgh Popcorn Company]() to get popcorn for family, and my husband wanted to get a bag, it was over. I could have easily said no, I wasn’t even hungry, and it was so close to the end, but that day I did cave and had peanut-butter popcorn. 
 
-![IMG_7655-2.JPG](/content/IMG_7655-2.JPG)
+![IMG_7655-2.pdf](/content/IMG_7655-2.pdf)
 
 After that slip-up, I tried to maintain the detox while traveling but I had lost the mindset and ate a teryiaki salmon bowl (probably full of soy) when our flight was delayed by 8 hours. 
 
