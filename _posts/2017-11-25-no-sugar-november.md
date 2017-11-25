@@ -65,7 +65,7 @@ The first time I did this program successfully was [in 2015](http://edibleem.com
 
 Next time, I will have to remember that a very strict way of eating just does not jive with periods of stress combined with travel.  It wasn’t a waste, but next time it will be better if I can stay home, manage stress better, and scale back on my commitments to make time for meal prep and better stress reduction. 
 
-![IMG_7697.JPG](/content/IMG_7697.JPG)
+![IMG_7697-edited.JPG](/content/IMG_7697-edited.JPG)
 
 *One of my post-detox "healthier" treats - chips fried in coconut oil!*
 
