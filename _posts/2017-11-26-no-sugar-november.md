@@ -61,7 +61,7 @@ So did I have a good excuse to not follow the detox? I kind of think so. But sti
 
 **Next Time**
 
-The first time I did this program successfully was [in 2015](http://edibleem.com/detox-with-emily), when I had a lot less going on and a lot more time to prepare (wasn’t working full time at that point).  I wouldn’t count this whole time as a loss and it certainly gave me a great reset and [a balanced mindset going into the holidays]().
+The first time I did this program successfully was [in 2015](http://edibleem.com/detox-with-emily), when I had a lot less going on and a lot more time to prepare (wasn’t working full time at that point).  I wouldn’t count this whole time as a loss and it certainly gave me a great reset and [a balanced mindset going into the holidays](http://edibleem.com/em's-tips-to-survive-the-holidays).
 
 Next time, I will have to remember that a very strict way of eating just does not jive with periods of stress combined with travel.  It wasn’t a waste, but next time it will be better if I can stay home, manage stress better, and scale back on my commitments to make time for meal prep and better stress reduction. 
 
