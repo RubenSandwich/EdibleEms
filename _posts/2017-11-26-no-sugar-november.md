@@ -23,9 +23,9 @@ It really just kind of crept in to my life without me noticing until months down
 
 I don’t tend to use the term “cheat” in regards to my nutrition, as it sort of implies a morality when it comes to food choices and I do not agree with this type of extreme and shame-promoting verbiage.
 
-But anyway, I get the question.  You want to know if I broke the “rules” of [the program I was following](). 
+But anyway, I get the question.  You want to know if I broke the “rules” of [the program I was following](https://21daysugardetox.com). 
 
-I had planned all along to go to [Tako](http://takopgh.com), one of Pittsburgh’s best restaurants (in my opinion) that serves American-Mexican fusion food (so tacos!). Our friend from our [Sweden trip]() was visiting and we knew we would go out at some point so I had a planned detour from the detox. If this was the only time I’d gone off track I would honestly not have counted it since it was planned and my mindset around this meal was so balanced (I did not have dairy or dessert, for example). 
+I had planned all along to go to [Tako](http://takopgh.com), one of Pittsburgh’s best restaurants (in my opinion) that serves American-Mexican fusion food (so tacos!). Our friend from our [Sweden trip](http://edibleem.com/weekly-dates-anniversary-in-stockholm) was visiting and we knew we would go out at some point so I had a planned detour from the detox. If this was the only time I’d gone off track I would honestly not have counted it since it was planned and my mindset around this meal was so balanced (I did not have dairy or dessert, for example). 
 
 ![IMG_7724.jpg](/content/IMG_7724.jpg)
 
@@ -39,11 +39,11 @@ On Day 18 of the detox, my husband and I spent the day preparing for our flight 
 
 Traveling ended up not even being the most difficult part, though.
 
-We were running around like crazy trying to get Christmas gifts for family, all of which happened to be local food gifts from Pittsburgh. Now the sugar wasn’t actually the hard part for me compared to the salty snacks – so when we walked into the [Pittsburgh Popcorn Company]() to get popcorn for family, and my husband wanted to get a bag, it was over. I could have easily said no, I wasn’t even hungry, and it was so close to the end, but that day I did cave and had peanut-butter popcorn. 
+We were running around like crazy trying to get Christmas gifts for family, all of which happened to be local food gifts from Pittsburgh. Now the sugar wasn’t actually the hard part for me compared to the salty snacks – so when we walked into the [Pittsburgh Popcorn Company](http://pghpopcorn.com) to get popcorn for family, and my husband wanted to get a bag, it was over. I could have easily said no, I wasn’t even hungry, and it was so close to the end, but that day I did cave and had peanut-butter popcorn. 
 
 ![IMG_7655-2.pdf](/content/IMG_7655-2.pdf)
 
-After that slip-up, I tried to maintain the detox while traveling but I had lost the mindset and ate a teryiaki salmon bowl (probably full of soy) when our flight was delayed by 8 hours. 
+After that slip-up, I tried to maintain the detox while traveling but I had lost the mindset and ate a teryiaki salmon bowl (probably full of soy) when our flight was delayed by 8 hours in addition to some fries. 
 
 I tried to eat lunch that I brought, which was lunch meat, smoked salmon, and avocado that I needed to use up anyway, but after a few hours that did not continue to satiate me and I couldn't think of anything else to eat besides an Rx bar, which has dates so is technically not 21DSD compliant. I still considered my choices to be pretty healthy, though, so it was not a complete loss.
 
