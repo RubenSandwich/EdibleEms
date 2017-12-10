@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2017-12-11T00:00:00.000Z
 tags: dinner quickdinner quickmeal 30minutemeal glutenfree dairyfree soyfree grainfree paleo sage turkey lowfat
-image: 
+image: IMG_7780.JPG
 ---
 
 I believe sage is a spectacular spice that is often forgotten and underappreciated. It has a bit of a unique flavor so it cannot simply be added to any dish, but it goes perfectly in in this recipe and makes for a much nicer presentation. This recipe also uses ground chicken. What I love about ground meat is that it is so versatile – see print in Italics for suggestions of how to make this recipe stretch for two meals.
