@@ -6,9 +6,7 @@ tags: dinner quickdinner quickmeal 30minutemeal glutenfree dairyfree soyfree gra
 image: IMG_7780.JPG
 ---
 
-I believe sage is a spectacular spice that is often forgotten and underappreciated. It has a bit of a unique flavor so it cannot simply be added to any dish, but it goes perfectly in in this recipe and makes for a much nicer presentation. This recipe also uses ground chicken. What I love about ground meat is that it is so versatile – see print in Italics for suggestions of how to make this recipe stretch for two meals.
-
-This dish is incredibly simple and perfect for a weeknight dinner! 
+I believe sage is a spectacular spice that is often forgotten and underappreciated. It has a bit of a unique flavor so it cannot simply be added to any dish, but it goes perfectly in in this recipe and makes for a much nicer presentation.  What I love about ground meat is that it is so versatile – see print in Italics for suggestions of how to make this recipe stretch for two meals.
 
 
 
@@ -41,7 +39,7 @@ This dish is incredibly simple and perfect for a weeknight dinner!
 
 3.	When the turkey has cooked, turn the heat to low and add the salt, pepper, and tomato sauce. An option to add a bit of the fresh sage chopped into small pieces for extra sage flavor. :) Cook for 2 or 3 more minutes on low so that the flavors can mix a bit.
 
-4.	While the turkey is cooking, wash the mushrooms and grease a baking pan or dish. Remove the stems from the mushrooms. Set the mushrooms on the dish and fill with the turkey and tomato mixture once it is finished. If using 1lb of turkey, set aside approximately half of the mixture after the tomato sauce is cooked in and save as a breakfast hash for the following day(s).
+4.	While the turkey is cooking, wash the mushrooms and grease a baking pan or dish. Remove the stems from the mushrooms. Set the mushrooms on the dish and fill with the turkey and tomato mixture once it is finished. *If using 1lb of turkey, set aside approximately half of the mixture after the tomato sauce is cooked in and save as a breakfast hash for the following day(s).
 
 5.	Bake for about 15-18 minutes, or until mushrooms are cooked through.
 
