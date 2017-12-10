@@ -6,6 +6,10 @@ tags: dinner quickdinner quickmeal 30minutemeal glutenfree dairyfree soyfree gra
 image: IMG_7780.JPG
 ---
 
+![IMG_7780.JPG](/content/IMG_7780.JPG)
+
+<br>
+
 I believe sage is a spectacular spice that is often forgotten and underappreciated. It has a bit of a unique flavor so it cannot simply be added to any dish, but it goes perfectly in in this recipe and makes for a much nicer presentation.  What I love about ground meat is that it is so versatile – see print in Italics for suggestions of how to make this recipe stretch for two meals.
 
 
@@ -45,6 +49,7 @@ I believe sage is a spectacular spice that is often forgotten and underappreciat
 
 6.	Once the mushrooms are taken out of the oven, wait 3-4 minutes for them to cool a bit, then top with fresh sage and serve.
 
+<br>
 
 *Notes:*
 
