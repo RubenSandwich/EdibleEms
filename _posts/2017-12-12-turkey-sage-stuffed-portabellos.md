@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: 2017-12-11T00:00:00.000Z
+date: 2017-12-12T00:00:00.000Z
 tags: dinner quickdinner quickmeal 30minutemeal glutenfree dairyfree soyfree grainfree paleo sage turkey lowfat
 image: IMG_7780.JPG
 ---
