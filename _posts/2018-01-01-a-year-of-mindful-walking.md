@@ -23,5 +23,5 @@ The specific parameters are simple yet require active participation, and they ar
 
 <br>
 
-Any advice, ideas, or mindfulness practices that anyone suggests I can implement on my walks this year, please do tell in the comments below!
+**Any advice, ideas, or mindfulness practices that anyone suggests I can implement on my walks this year, please do tell in the comments below!**
 
