@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2018-01-01T00:00:00.000Z
 tags: health healthcoaching lifecoaching naturalmovement life stress stressmanagement lifestyle coaching food self-improvement exercise diet nutrition chekcoach chekinstitute goals
-image: IMG_7221.JPG
+image: Snow_3.jpg
 ---
 
 For the upcoming year, I am choosing to focus not on a specific list of goals, but on a sort of intention for my 2018.
