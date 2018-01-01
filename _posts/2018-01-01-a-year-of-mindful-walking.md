@@ -18,8 +18,8 @@ The specific parameters are simple yet require active participation, and they ar
 
 1. I must walk every single day of 2018.
 2. These walks must be 15 minutes **at a time** and at a **minimum.**
-3. The walks also need to be outdoors, no matter what the temperature.
-4. During the walks, the focus must be on mindfulness. I guess that is sort of my intention, or theme for 2018, and I think walking is going to be a great way to implement it. So, I will either meditate, listen to something though-provoking, walk with a friend, walk while doing a gratitude or breathing exercise, etc.
+3. The walks also need to be **outdoors**, no matter what the temperature.
+4. During the walks, **the focus must be on mindfulness**. I guess that is sort of my intention, or theme for 2018, and I think walking is going to be a great way to implement it. So, I will either meditate, listen to something though-provoking, walk with a friend, walk while doing a gratitude or breathing exercise, etc.
 
 <br>
 
