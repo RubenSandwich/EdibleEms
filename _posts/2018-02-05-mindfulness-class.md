@@ -16,7 +16,7 @@ Time: 1-2pm**
 
 Come if you are curious about living a more mindful and less stressful life!
 
-PICTURE
+![IMG_7897.JPG](/content/IMG_7897.JPG)
 
 See the original post [here](https://www.pittsburghfitnessproject.com/wellness-series.html).
 
