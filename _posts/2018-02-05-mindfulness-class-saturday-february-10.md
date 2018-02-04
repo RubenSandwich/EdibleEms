@@ -10,11 +10,7 @@ Hey everyone! I'm just writing a quick post to inform you all of my new Mindfuln
 
 Here are the details:
 
-**The class will be held at [Pittsburgh Fitness Project](https://www.pittsburghfitnessproject.com/).
-
-Date: Saturday, February 10th
-
-Time: 1-2pm**
+**The class will be held at [Pittsburgh Fitness Project](https://www.pittsburghfitnessproject.com/). on Saturday, February 10th from 1-2pm**
 
 Come if you are curious about living a more mindful and less stressful life!
 
