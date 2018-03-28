@@ -6,6 +6,8 @@ tags: health healthcoaching mindset mindfulness class lifecoaching naturalmoveme
 image: IMG_8256.jpg
 ---
 
+![IMG_8256.jpg](/content/IMG_8256.jpg)
+
 If you’ve spent anytime on Instagram lately you’ve probably heard about mindfulness for health, which is a confusing term because I have yet to meet someone who never uses their mind. But Mindfulness is much more than just having brain impulses.
 
 Mindfulness is essentially just awareness. Being in tune with how you feel, what is going on around you, and not letting time simply slip by. This practice can help reduce stress, increase happiness, and minimize the anxieties of life.
