@@ -18,37 +18,43 @@ What does mindfulness look like in one’s everyday life? How exactly does one b
 See the original post [HERE](https://www.pittsburghfitnessproject.com/blog/mindfulness-for-health). 
 
 
-​1.) Basic Awareness Exercise: A great way to get started implementing mindfulness into your everyday life is through a simple awareness exercise. Start by finding a quiet space and getting as comfortable as you can. Do whatever your body feels best doing, whether it be sitting on a mat or cushion, laying down, or even sitting in a chair with your eyes closed.
+**Basic Awareness Exercise** 
 
-* Think about your day and just allow whatever thoughts that are most prominent come to the forefront. What is dominating your thoughts? Notice the thoughts that are in your head, but don’t judge, just observe.
+A great way to get started implementing mindfulness into your everyday life is through a simple awareness exercise. Start by finding a quiet space and getting as comfortable as you can. Do whatever your body feels best doing, whether it be sitting on a mat or cushion, laying down, or even sitting in a chair with your eyes closed.
 
-* Second, think about what you may grateful for today, in this moment. What is negative in your mind today? Where are your thoughts stalled, in the past, or dwelling on the future?
+Think about your day and just allow whatever thoughts that are most prominent come to the forefront. What is dominating your thoughts? Notice the thoughts that are in your head, but don’t judge, just observe.
 
-* Once you have noticed all of the distractions you may be facing, take time to think about this moment, and how you may feel differently after observing your thoughts from somewhat of a distance. The point of this exercise is to bring your thoughts to the here and now, so ask yourself how you can focus on the former instead of what may have happened to you earlier.
+Second, think about what you may grateful for today, in this moment. What is negative in your mind today? Where are your thoughts stalled, in the past, or dwelling on the future?
+
+Once you have noticed all of the distractions you may be facing, take time to think about this moment, and how you may feel differently after observing your thoughts from somewhat of a distance. The point of this exercise is to bring your thoughts to the here and now, so ask yourself how you can focus on the former instead of what may have happened to you earlier.
 
 This exercise is a great first step in being mindful by taking a minute or two to literally just ask yourself, how are you, how are you really doing today?
  
-2.) Three-Minute Breathing Exercise: This exercise is a simple way to practice focusing on your breath and indirectly leaving other thoughts behind. Start by getting into a comfortable position and closing your eyes after setting a timer for 3 minutes.
+**Three-Minute Breathing Exercise** 
 
-* Begin this practice by turning your attention toward your breath. Take however long you need to in this.
+This exercise is a simple way to practice focusing on your breath and indirectly leaving other thoughts behind. Start by getting into a comfortable position and closing your eyes after setting a timer for 3 minutes.
 
-* Once you are comfortable with your pace of breath and feel centered around it, start to count the length of your inhales and exhales. Spend however long you need simply observing the length in seconds of your inhales and exhales, noticing if one if longer than the other or if they are the same.
+Begin this practice by turning your attention toward your breath. Take however long you need to in this.
 
-* Next begin breathing in away that makes your exhales and inhales start to become the same length of time. It does not matter what the length is, just focus on getting the inhales and exhales to take the same length of time. Do this for the remainder of the 3 minutes, or as long as you feel you need to.
+Once you are comfortable with your pace of breath and feel centered around it, start to count the length of your inhales and exhales. Spend however long you need simply observing the length in seconds of your inhales and exhales, noticing if one if longer than the other or if they are the same.
+
+Next begin breathing in away that makes your exhales and inhales start to become the same length of time. It does not matter what the length is, just focus on getting the inhales and exhales to take the same length of time. Do this for the remainder of the 3 minutes, or as long as you feel you need to.
  
-3.) Body Scan: This is a great way to become more mindful in your physical body and can be done as a form of meditation as well. This is typically done laying down, although if sitting or even standing is more comfortable for you go ahead and do that.
+**Body Scan** 
 
-* Start by taking a few deep breaths. Keep your gaze soft or close your eyes if you will be distracted by your surroundings.
+This is a great way to become more mindful in your physical body and can be done as a form of meditation as well. This is typically done laying down, although if sitting or even standing is more comfortable for you go ahead and do that.
 
-* After you observe your breathing for however long feels best, turn your attention to your body. Note how present you feel (perhaps you will want to rate yourself on a scale from 1-10 on the level of awareness you believe you have at this time).
+Start by taking a few deep breaths. Keep your gaze soft or close your eyes if you will be distracted by your surroundings.
 
-* Once your attention is fully on your body, begin to bring awareness to each individual part. Start with your feet, then move up to your legs, then groin, hands, belly, arms, lungs, neck & throat, jaw. Stop at each location and notice how you may be feeling in this part. What do you notice/what are you thankful for/what part hurts? Work your way up to your face and stop there for a bit. Are your eyebrows furrowed? Where are you holding your tension?
+After you observe your breathing for however long feels best, turn your attention to your body. Note how present you feel (perhaps you will want to rate yourself on a scale from 1-10 on the level of awareness you believe you have at this time).
 
-* Then turn your attention back to your entire body as a whole. Breath for a few seconds, or however long feels good.
+Once your attention is fully on your body, begin to bring awareness to each individual part. Start with your feet, then move up to your legs, then groin, hands, belly, arms, lungs, neck & throat, jaw. Stop at each location and notice how you may be feeling in this part. What do you notice/what are you thankful for/what part hurts? Work your way up to your face and stop there for a bit. Are your eyebrows furrowed? Where are you holding your tension?
 
-* Maybe rate yourself again on your level of mindfulness, noting if any changes have occurred or if this number has remained the same.
+Then turn your attention back to your entire body as a whole. Breath for a few seconds, or however long feels good.
 
-* Observe your breath for several more iterations, then slowly flutter your eyes open and bring your attention back to your location.
+Maybe rate yourself again on your level of mindfulness, noting if any changes have occurred or if this number has remained the same.
+
+Observe your breath for several more iterations, then slowly flutter your eyes open and bring your attention back to your location.
 
 <br>
  
