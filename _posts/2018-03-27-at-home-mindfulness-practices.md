@@ -1,9 +1,9 @@
 ---
 published: true
 layout: post
-date: 2018-03-26T00:00:00.000Z
+date: 2018-03-27T00:00:00.000Z
 tags: health healthcoaching mindset mindfulness class lifecoaching naturalmovement life stress stressmanagement lifestyle coaching food self-improvement exercise diet nutrition chekcoach chekinstitute goals
-image:
+image: IMG_8256.jpg
 ---
 
 If you’ve spent anytime on Instagram lately you’ve probably heard about mindfulness for health, which is a confusing term because I have yet to meet someone who never uses their mind. But Mindfulness is much more than just having brain impulses.
