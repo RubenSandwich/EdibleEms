@@ -18,6 +18,8 @@ A morning routine that incorporates mindfulness seems daunting. Most people don'
 
 But you really can change your mindset in the morning fairly effortlessly with a few simple steps:
 
+<br>
+
  * Take a short walk before eating breakfast. (I start every day with a mindful walk around the block no matter what.)
  
 <br>
