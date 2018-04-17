@@ -18,14 +18,21 @@ A morning routine that incorporates mindfulness seems daunting. Most people don'
 
 But you really can change your mindset in the morning fairly effortlessly with a few simple steps:
 
-* Take a short walk before eating breakfast. (I start every day with a mindful walk around the block no matter what.)
+ * Take a short walk before eating breakfast. (I start every day with a mindful walk around the block no matter what.)
+ 
+<br>
 
-* Make a fabulous breakfast (and take the time to sit down and savor it!). 
+ * Make a fabulous breakfast (and take the time to sit down and savor it!). 
+ 
+ <br>
 
-* Try a [3-minute breathing/mindfulness exercise](http://edibleem.com/at-home-mindfulness-practices).
+ * Try a [3-minute breathing/mindfulness exercise](http://edibleem.com/at-home-mindfulness-practices).
 
- Focused mindfulness time does not need to stop when you leave the house! Try listening to audiobooks, podcasts, or music in the car or on the bus that will continue to bend your mind toward awareness.
+<br>
 
+ * Focused mindfulness time does not need to stop when you leave the house! Try listening to audiobooks, podcasts, or music in the car or on the bus that will continue to bend your mind toward awareness.
+
+<br>
 
 The most effective morning routine is a mix of relaxation, light exercise, and healthful habits that make a positive start to your day, every day. Start with just one of the aforementioned ideas and slowly add in practices to build strong mindfulness habits and begin each day with a great attitude. 
 
