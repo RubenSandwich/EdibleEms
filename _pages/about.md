@@ -14,7 +14,7 @@ Em is certified as a CHEK Holistic Lifestyle Coach through the
 ##### A Bit More About Em
 \- During the week, Em works as a civil engineer focusing on sustainable construction.
 \- Em moved from Portland, OR to Pittsburgh, PA just for the heck of it over 2 years ago!  
-\- Em loves to cook but baking really isn't her thing. (One exception: my Chocolate Cake recipe!)  
+\- Em loves to cook but baking really isn't her thing. (One exception: her [Chocolate Cake](http://edibleem.com/dense-chocolate-cake-with-chocolate-drizzle) recipe!)  
 \- Em teaches wellness classes at her [local gym](https://www.pittsburghfitnessproject.com/).  
 \- She is the youngest of 4 but was raised as an only child since her siblings are 10+ years older than her.  
 \- Em moved 7 times growing up, so she never knows what to say when people ask where she’s from!  
