@@ -20,7 +20,7 @@ So what do you do when circumstances interfere with your peace of mind?
  
 When I encounter seasons of business, I use intentional thoughts and actions that have kept me mindful despite less than ideal circumstances. Here are a few examples: 
  
-**1.     Know that you do not need an abundance of time to practice mindfulness.** 
+1.     Know that you do not need an abundance of time to practice mindfulness. 
 
 Most simple breathing exercises take 1-3 minutes and can affect your mindset throughout the entire day. Try some basic mindfulness exercises [here](https://www.pittsburghfitnessproject.com/blog/mindfulness-for-health). 
 
