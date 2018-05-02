@@ -3,7 +3,7 @@ published: true
 layout: post
 date: 2018-05-02T00:00:00.000Z
 tags: health healthcoaching mindset mindfulness class lifecoaching naturalmovement life stress stressmanagement lifestyle coaching food self-improvement exercise diet nutrition chekcoach chekinstitute goals
-image:
+image: IMG_5500.jpg
 ---
 
  IMG
