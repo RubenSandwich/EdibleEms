@@ -6,7 +6,7 @@ tags: health healthcoaching mindset mindfulness class lifecoaching naturalmoveme
 image: IMG_5500.jpg
 ---
 
- IMG
+![IMG_5500.jpg](/content/IMG_5500.jpg)
  
 See the original post [here](https://www.pittsburghfitnessproject.com/blog/staying-mindful-during-busy-season).
 
