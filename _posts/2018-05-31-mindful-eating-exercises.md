@@ -3,10 +3,12 @@ published: true
 layout: post
 date: 2018-05-31T00:00:00.000Z
 tags: health healthcoaching mindset mindfulness class mindfuleating lifecoaching naturalmovement life stress stressmanagement lifestyle coaching food self-improvement exercise diet nutrition chekcoach chekinstitute goals
-image: IMG_5500.jpg
+image: IMG_8156.jpg
 ---
 
-![IMG_5500.jpg](/content/IMG_5500.jpg)
+![IMG_8156.jpg](/content/IMG_8156.jpg)
+
+<br>
 
 See the original post [here](https://www.pittsburghfitnessproject.com/blog/a-mindful-eating-blog).
 
