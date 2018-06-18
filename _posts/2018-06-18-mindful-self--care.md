@@ -6,7 +6,7 @@ tags: health healthcoaching mindset mindfulness class mindfuleating lifecoaching
 image: IMG_8558.JPG
 ---
 
-See the original post [here](https://www.pittsburghfitnessproject.com/mindful-self-care/)
+See the original post [here](https://www.pittsburghfitnessproject.com/mindful-self-care/).
 
 
 ![IMG_8558.JPG](/content/IMG_8558.JPG)
