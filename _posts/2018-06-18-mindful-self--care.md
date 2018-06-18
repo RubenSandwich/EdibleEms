@@ -8,6 +8,11 @@ image: IMG_8558.JPG
 
 See the original post [here](https://www.pittsburghfitnessproject.com/mindful-self-care/)
 
+
+![IMG_8558.JPG](/content/IMG_8558.JPG)
+
+<br>
+
 There has been a lot of buzz around both the ideas of “self-care” and “mindfulness” lately, but I have rarely seen any stated connection between the two. Self-care seems to be described more as actions you take and mindfulness more as thoughts alone. But what about the concept of mindful self-care?
 
 
