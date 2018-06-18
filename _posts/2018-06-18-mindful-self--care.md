@@ -1,4 +1,10 @@
-
+---
+published: true
+layout: post
+date: 2018-06-18T00:00:00.000Z
+tags: health healthcoaching mindset mindfulness class mindfuleating lifecoaching naturalmovement life stress stressmanagement lifestyle coaching food self-improvement exercise diet nutrition chekcoach chekinstitute goals
+image: 
+---
 
 See the original post [here](https://www.pittsburghfitnessproject.com/mindful-self-care/)
 
