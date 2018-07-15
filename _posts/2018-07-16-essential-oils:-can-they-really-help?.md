@@ -3,12 +3,12 @@ published: true
 layout: post
 date: 2018-07-16T00:00:00.000Z
 tags: health essentialoils healthcoaching mindset mindfulness class mindfuleating lifecoaching naturalmovement life stress stressmanagement lifestyle coaching food self-improvement exercise diet nutrition chekcoach chekinstitute goals
-image: IMG_8782.JPG
+image: IMG_8782-1.JPG
 ---
 
 
 
-![IMG_8782.JPG](/content/IMG_8782.JPG)
+![IMG_8782-1.JPG](/content/IMG_8782-1.JPG)
 
 See the original post [here](https://www.pittsburghfitnessproject.com/essential-oils/). 
 
